@@ -71,7 +71,7 @@ EXCLUIR = {
 
 # Partes del dominio que indican medio, universidad, gobierno o comparador.
 EXCLUIR_PATRON = re.compile(
-    r"(^|\.)(rankia|wikipedia|investing|forbes|expansion|elpais|infobae|eleconomista)\.|"
+    r"(^|\.)(rankia|wikipedia|investing|expansion|elpais|infobae|eleconomista)\.|forbes|mejoresbrokers|"
     r"\.(edu|gob|gov)(\.|$)|\.edu\.[a-z]{2}$|(^|\.)(blog|news|noticias|revista|magazine)")
 
 # Rasgos de Pilou y su peso en la puntuación. Cada grupo suma una vez.
