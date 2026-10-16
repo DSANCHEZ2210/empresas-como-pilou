@@ -13,4 +13,4 @@ Opciones: `--resultados N` (resultados por búsqueda), `--minimo N` (parecido m�
 
 ## Desde GitHub
 
-Ve a la pestaña **Actions**, abre **Buscar empresas como Pilou** y pulsa **Run workflow**. Cuando termine, descarga el CSV y el Excel desde el apartado *Artifacts* de la ejecución.
+Ve a la pestaña **Actions**, abre **Buscar empresas como Pilou** y pulsa **Run workflow**. Cuando termine, el CSV y el Excel quedan guardados en la carpeta `resultados/` del repo (y también en *Artifacts* de la ejecución).

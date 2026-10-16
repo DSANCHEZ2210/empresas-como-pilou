@@ -62,7 +62,17 @@ EXCLUIR = {
     "google.com", "apple.com", "play.google.com", "reddit.com", "quora.com",
     "mercadopago.com.mx", "financera.mx", "gob.mx", "condusef.gob.mx", "glassdoor.com",
     "indeed.com", "amazon.com", "bloomberglinea.com", "contxto.com", "techcrunch.com",
+    "investing.com", "brokerchooser.com", "finect.com", "fastercapital.com", "grokipedia.com",
+    "guiadefondos.com", "musamagazine.us", "editorialge.com", "hotbook.mx", "mamaejecutiva.net",
+    "segundoenfoque.com", "fintechfuturo.com", "terra2us.com", "empremexico.com",
+    "latamfintech.co", "colombiafintech.co", "fintechmexico.org", "wefintech.org",
+    "mujeresfintech.co", "descubre.vc", "aden.org", "nafin.com", "colsubsidio.com",
 }
+
+# Partes del dominio que indican medio, universidad, gobierno o comparador.
+EXCLUIR_PATRON = re.compile(
+    r"(^|\.)(rankia|wikipedia|investing|forbes|expansion|elpais|infobae|eleconomista)\.|"
+    r"\.(edu|gob|gov)(\.|$)|\.edu\.[a-z]{2}$|(^|\.)(blog|news|noticias|revista|magazine)")
 
 # Rasgos de Pilou y su peso en la puntuación. Cada grupo suma una vez.
 RASGOS = {
@@ -94,7 +104,7 @@ def dominio(url):
 
 
 def excluido(dom):
-    return any(dom == d or dom.endswith("." + d) for d in EXCLUIR)
+    return bool(EXCLUIR_PATRON.search(dom)) or any(dom == d or dom.endswith("." + d) for d in EXCLUIR)
 
 
 # --------------------------------------------------------------------------- búsqueda
@@ -102,7 +112,7 @@ def excluido(dom):
 def buscar_ddgs(consulta, n):
     from ddgs import DDGS  # pip install ddgs
     with DDGS() as d:
-        for r in d.text(consulta, region="wt-wt", max_results=n):
+        for r in d.text(consulta, region="mx-es", max_results=n):
             yield {"url": r.get("href", ""), "titulo": r.get("title", ""),
                    "fragmento": r.get("body", "")}
 
@@ -208,6 +218,8 @@ COLUMNAS = ["parecido_pilou", "empresa", "web", "pais_probable", "rasgos",
 
 
 def guardar(filas, base):
+    import os
+    os.makedirs(os.path.dirname(base) or ".", exist_ok=True)
     with open(base + ".csv", "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=COLUMNAS, extrasaction="ignore")
         w.writeheader()
@@ -246,9 +258,9 @@ def main():
                     help="búsqueda propia; se puede repetir. Sustituye a las de por defecto")
     ap.add_argument("--sin-semillas", action="store_true",
                     help="no buscar las empresas parecidas ya conocidas")
-    ap.add_argument("--minimo", type=int, default=25,
+    ap.add_argument("--minimo", type=int, default=40,
                     help="parecido mínimo (0-100) para entrar en la lista")
-    ap.add_argument("--salida", default="empresas_como_pilou",
+    ap.add_argument("--salida", default="resultados/empresas_como_pilou",
                     help="nombre base de los ficheros de salida")
     args = ap.parse_args()
 
