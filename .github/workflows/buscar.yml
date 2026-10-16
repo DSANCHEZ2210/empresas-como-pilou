@@ -9,12 +9,24 @@ on:
       minimo:
         description: "Parecido mínimo (0-100)"
         default: "40"
+  schedule:
+    - cron: "0 13 * * *"  # todos los días a las 7:00 de Ciudad de México
+  push:
+    branches: [main]
+    paths: ["site/**"]
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: buscar
+  cancel-in-progress: false
 
 jobs:
   buscar:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,7 +34,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: python buscar_empresas_como_pilou.py --resultados "${{ inputs.resultados }}" --minimo "${{ inputs.minimo }}"
+      - run: >
+          python buscar_empresas_como_pilou.py
+          --resultados "${{ inputs.resultados || '10' }}"
+          --minimo "${{ inputs.minimo || '40' }}"
+          --json site/data/empresas.json
       - uses: actions/upload-artifact@v4
         with:
           name: empresas-como-pilou
@@ -31,6 +47,25 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add resultados/
+          git add resultados/ site/data/
           git commit -m "Resultados de la búsqueda $(date -u +%Y-%m-%d)" || echo "Sin cambios"
+          git pull --rebase origin main
           git push
+
+  publicar:
+    needs: buscar
+    if: always() && (needs.buscar.result == 'success' || needs.buscar.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

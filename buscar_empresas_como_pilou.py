@@ -43,6 +43,16 @@ BUSQUEDAS = [
     "inversión como prestación para empleados México fintech",
     "educación financiera para mujeres invertir startup",
     "fintech ahorro e inversión mujeres emprendedoras",
+    # Más búsquedas solo de México, para que la pestaña de mexicanas salga completa.
+    "fintech mexicana para invertir desde poco dinero",
+    "asesor de inversión independiente registrado CNBV",
+    "app de ahorro e inversión México jóvenes",
+    "educación financiera e inversión para mujeres CDMX",
+    "plataforma para invertir en CETES y ETFs México",
+    "fintech de bienestar financiero para empleados México",
+    "startup mexicana inversión patrimonial personas",
+    "Monterrey fintech inversión personas",
+    "Guadalajara fintech inversión ahorro",
 ]
 
 # Empresas parecidas que ya aparecen en prensa; se buscan por nombre para encontrar su web.
@@ -181,8 +191,10 @@ def analizar_html(html, raiz):
     for s in soup(["script", "style", "noscript"]):
         s.decompose()
     texto = re.sub(r"\s+", " ", soup.get_text(" ")).strip()
-    emails = sorted({e.rstrip(".") for e in re.findall(r"[\w.+-]+@[\w-]+\.[\w.-]+", html)})
-    emails = [e for e in emails if not e.lower().endswith((".png", ".jpg", ".webp", ".svg"))]
+    emails = sorted({e.rstrip(".") for e in re.findall(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)*\.[a-zA-Z]{2,}\b", html)})
+    emails = [e for e in emails if not e.lower().endswith((".png", ".jpg", ".webp", ".svg"))
+              and not re.match(r"(tu|tuemail|usuario|user|nombre|name|email|correo|ejemplo|example|test)@|[0-9a-f]{20,}@|.*@(email|dominio|domain|example|ejemplo|correo)\.|.*(sentry|wixpress)",
+                               e, re.I)]
     return {
         "web": raiz,
         "titulo_web": titulo[:150],
@@ -205,6 +217,13 @@ def puntuar(texto):
     return round(100 * puntos / PUNTOS_MAX), rasgos
 
 
+def es_mexicana(dom, pais, texto):
+    """Dominio .mx, país detectado México, o menciones a reguladores mexicanos."""
+    t = texto.lower()
+    return (dom.endswith(".mx") or pais == "México"
+            or any(k in t for k in ("cnbv", "condusef", "cdmx", "ciudad de méxico")))
+
+
 def detectar_pais(texto):
     t = texto.lower()
     cuenta = {p: t.count(p.lower()) + t.count(p.lower().replace("é", "e").replace("ú", "u"))
@@ -215,7 +234,7 @@ def detectar_pais(texto):
 
 # --------------------------------------------------------------------------- salida
 
-COLUMNAS = ["parecido_pilou", "empresa", "web", "pais_probable", "rasgos",
+COLUMNAS = ["parecido_pilou", "empresa", "web", "pais_probable", "mexicana", "rasgos",
             "descripcion", "instagram", "linkedin", "email", "encontrada_con", "error"]
 
 
@@ -240,14 +259,41 @@ def guardar(filas, base):
         c.font = Font(bold=True)
     for fila in filas:
         ws.append([fila.get(c, "") for c in COLUMNAS])
-    anchos = {"A": 14, "B": 32, "C": 34, "D": 14, "E": 40, "F": 60,
-              "G": 34, "H": 34, "I": 30, "J": 40, "K": 20}
+    anchos = {"A": 14, "B": 32, "C": 34, "D": 14, "E": 10, "F": 40, "G": 60,
+              "H": 34, "I": 34, "J": 30, "K": 40, "L": 20}
     for col, ancho in anchos.items():
         ws.column_dimensions[col].width = ancho
     ws.freeze_panes = "A2"
     ws.auto_filter.ref = ws.dimensions
     wb.save(base + ".xlsx")
     return [base + ".csv", base + ".xlsx"]
+
+
+def acumular_json(filas, ruta):
+    """Mezcla los resultados nuevos con los de búsquedas anteriores, por dominio."""
+    import json
+    import os
+    from datetime import datetime, timezone
+    ahora = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    previas = {}
+    if os.path.exists(ruta):
+        with open(ruta, encoding="utf-8") as f:
+            previas = {dominio(e["web"]): e for e in json.load(f).get("empresas", [])}
+    for fila in filas:
+        if fila.get("error"):
+            continue  # web caída: no la publicamos
+        dom = dominio(fila["web"])
+        e = {k: fila[k] for k in ("empresa", "web", "pais_probable", "rasgos", "descripcion",
+                                  "instagram", "linkedin", "email", "mexicana", "parecido_pilou")}
+        e["primera_vez"] = previas.get(dom, {}).get("primera_vez", ahora)
+        e["ultima_vez"] = ahora
+        previas[dom] = e
+    empresas = sorted((e for d, e in previas.items() if not excluido(d)),
+                      key=lambda e: e["parecido_pilou"], reverse=True)
+    os.makedirs(os.path.dirname(ruta) or ".", exist_ok=True)
+    with open(ruta, "w", encoding="utf-8") as f:
+        json.dump({"actualizado": ahora, "empresas": empresas}, f, ensure_ascii=False, indent=1)
+    return len(empresas)
 
 
 # --------------------------------------------------------------------------- principal
@@ -264,6 +310,8 @@ def main():
                     help="parecido mínimo (0-100) para entrar en la lista")
     ap.add_argument("--salida", default="resultados/empresas_como_pilou",
                     help="nombre base de los ficheros de salida")
+    ap.add_argument("--json",
+                    help="fichero JSON acumulado para la página web (conserva búsquedas anteriores)")
     args = ap.parse_args()
 
     consultas = args.busqueda or BUSQUEDAS
@@ -303,11 +351,16 @@ def main():
             "email": info.get("email", ""),
             "encontrada_con": " | ".join(c["encontrada_con"][:3]),
             "error": info.get("error", ""),
+            "mexicana": es_mexicana(dominio(info.get("web") or c["url"]),
+                                    detectar_pais(texto), texto),
         })
 
     filas.sort(key=lambda f: f["parecido_pilou"], reverse=True)
     ficheros = guardar(filas, args.salida)
     print(f"\n{len(filas)} empresas guardadas en: {', '.join(ficheros)}")
+    if args.json:
+        total = acumular_json(filas, args.json)
+        print(f"{total} empresas en total en {args.json}")
 
 
 if __name__ == "__main__":

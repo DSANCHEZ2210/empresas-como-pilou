@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Empresas como Pilou</title>
+<style>
+  :root {
+    --bg: #f7f6f3; --surface: #ffffff; --text: #1d1d1f; --muted: #6b6b70;
+    --border: #e4e2dc; --accent: #6b4de6; --accent-soft: #efeafd;
+    --good: #1f8a5b; --good-soft: #e3f4ec; --mid: #a26a00; --mid-soft: #fbf0d9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141416; --surface: #1d1d20; --text: #ececee; --muted: #9a9aa2;
+      --border: #2e2e33; --accent: #a28cff; --accent-soft: #2a2442;
+      --good: #4cc38a; --good-soft: #17301f; --mid: #e0a53c; --mid-soft: #33270f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 28px; margin: 0 0 4px; letter-spacing: -0.02em; }
+  .sub { color: var(--muted); margin: 0 0 24px; }
+  .bar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 20px; }
+  .tabs { display: inline-flex; background: var(--surface); border: 1px solid var(--border);
+          border-radius: 10px; padding: 3px; }
+  .tab { border: 0; background: none; color: var(--muted); font: inherit; font-weight: 600;
+         padding: 8px 16px; border-radius: 8px; cursor: pointer; }
+  .tab[aria-selected="true"] { background: var(--accent); color: #fff; }
+  .tab .n { font-weight: 400; opacity: .8; margin-left: 4px; }
+  input[type=search] { flex: 1; min-width: 200px; padding: 9px 12px; font: inherit;
+         color: var(--text); background: var(--surface); border: 1px solid var(--border);
+         border-radius: 10px; }
+  select, .btn { padding: 9px 12px; font: inherit; color: var(--text); background: var(--surface);
+         border: 1px solid var(--border); border-radius: 10px; cursor: pointer; text-decoration: none; }
+  .meta { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+          padding: 16px; display: flex; flex-direction: column; gap: 8px; }
+  .top { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
+  .name { font-weight: 650; font-size: 16px; line-height: 1.3; }
+  .name a { color: inherit; text-decoration: none; }
+  .name a:hover { text-decoration: underline; }
+  .score { flex: none; font-weight: 700; font-size: 13px; padding: 3px 9px; border-radius: 999px; }
+  .s-hi { background: var(--good-soft); color: var(--good); }
+  .s-mid { background: var(--mid-soft); color: var(--mid); }
+  .s-lo { background: var(--accent-soft); color: var(--accent); }
+  .row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 13px; color: var(--muted); }
+  .chip { background: var(--bg); border: 1px solid var(--border); border-radius: 999px;
+          padding: 1px 8px; font-size: 12px; color: var(--muted); }
+  .new { background: var(--accent); color: #fff; border-color: transparent; }
+  .desc { margin: 0; font-size: 14px; display: -webkit-box; -webkit-line-clamp: 3;
+          -webkit-box-orient: vertical; overflow: hidden; }
+  .links { display: flex; flex-wrap: wrap; gap: 12px; font-size: 13px; margin-top: auto; }
+  .links a { color: var(--accent); text-decoration: none; }
+  .empty { color: var(--muted); padding: 40px 0; text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Empresas como Pilou</h1>
+  <p class="sub">Fintechs de inversión y educación financiera parecidas a Pilou, encontradas automáticamente y ordenadas por parecido.</p>
+
+  <div class="bar">
+    <div class="tabs" role="tablist">
+      <button class="tab" role="tab" data-tab="mx" aria-selected="true">Mexicanas<span class="n" id="n-mx"></span></button>
+      <button class="tab" role="tab" data-tab="int" aria-selected="false">Internacionales<span class="n" id="n-int"></span></button>
+    </div>
+    <input type="search" id="q" placeholder="Buscar por nombre, país o descripción">
+    <select id="min" aria-label="Parecido mínimo">
+      <option value="0">Todas</option>
+      <option value="50">Parecido 50+</option>
+      <option value="65">Parecido 65+</option>
+    </select>
+    <a class="btn" id="csv" href="#">Descargar CSV</a>
+  </div>
+  <div class="meta" id="meta">Cargando…</div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+let data = [], tab = "mx";
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const host = u => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch { return u; } };
+const GENERICOS = /^(inicio|home|bienvenid[oa]s?|página principal|index)$/i;
+const nombre = e => { const n = (e.empresa || "").split(/\s[|\-–—:]\s/)[0].trim();
+  return !n || GENERICOS.test(n) ? host(e.web) : n; };
+const esNueva = e => Date.now() - new Date(e.primera_vez) < 7 * 864e5;
+
+function visibles() {
+  const q = $("#q").value.trim().toLowerCase(), min = +$("#min").value;
+  return data.filter(e => (tab === "mx") === !!e.mexicana)
+    .filter(e => e.parecido_pilou >= min)
+    .filter(e => !q || [e.empresa, e.web, e.pais_probable, e.descripcion, e.rasgos].join(" ").toLowerCase().includes(q));
+}
+
+function pintar() {
+  document.querySelectorAll(".tab").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === tab));
+  $("#n-mx").textContent = data.filter(e => e.mexicana).length;
+  $("#n-int").textContent = data.filter(e => !e.mexicana).length;
+  const lista = visibles();
+  $("#grid").innerHTML = lista.length ? lista.map(e => {
+    const s = e.parecido_pilou, cls = s >= 65 ? "s-hi" : s >= 50 ? "s-mid" : "s-lo";
+    const rasgos = (e.rasgos || "").split(", ").filter(Boolean).map(r => `<span class="chip">${esc(r.replace("_", " "))}</span>`).join("");
+    return `<article class="card">
+      <div class="top"><div class="name"><a href="${esc(e.web)}" target="_blank" rel="noopener">${esc(nombre(e))}</a></div>
+        <span class="score ${cls}" title="Parecido con Pilou">${s}</span></div>
+      <div class="row">${esNueva(e) ? '<span class="chip new">Nueva</span>' : ""}<span>${esc(host(e.web))}</span>${e.pais_probable ? `<span>· ${esc(e.pais_probable)}</span>` : ""}</div>
+      <p class="desc">${esc(e.descripcion)}</p>
+      <div class="row">${rasgos}</div>
+      <div class="links"><a href="${esc(e.web)}" target="_blank" rel="noopener">Web</a>
+        ${e.instagram ? `<a href="${esc(e.instagram)}" target="_blank" rel="noopener">Instagram</a>` : ""}
+        ${e.linkedin ? `<a href="${esc(e.linkedin)}" target="_blank" rel="noopener">LinkedIn</a>` : ""}
+        ${e.email ? `<a href="mailto:${esc(e.email.split(",")[0])}">${esc(e.email.split(",")[0])}</a>` : ""}</div>
+    </article>`;
+  }).join("") : `<div class="empty">No hay empresas con estos filtros.</div>`;
+}
+
+function descargarCSV(ev) {
+  ev.preventDefault();
+  const cols = ["empresa", "web", "pais_probable", "parecido_pilou", "rasgos", "descripcion", "instagram", "linkedin", "email", "primera_vez"];
+  const q = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const csv = "﻿" + [cols.join(","), ...visibles().map(e => cols.map(c => q(e[c])).join(","))].join("\n");
+  const a = Object.assign(document.createElement("a"), {
+    href: URL.createObjectURL(new Blob([csv], {type: "text/csv"})),
+    download: `empresas_como_pilou_${tab === "mx" ? "mexicanas" : "internacionales"}.csv`});
+  a.click();
+}
+
+document.querySelectorAll(".tab").forEach(b => b.onclick = () => { tab = b.dataset.tab; pintar(); });
+$("#q").oninput = pintar; $("#min").onchange = pintar; $("#csv").onclick = descargarCSV;
+
+// "no-store" para que cada recarga traiga la última búsqueda publicada.
+fetch("data/empresas.json", {cache: "no-store"}).then(r => r.json()).then(j => {
+  data = j.empresas || [];
+  const f = new Date(j.actualizado);
+  $("#meta").textContent = `${data.length} empresas · última búsqueda: ${f.toLocaleString("es-MX", {dateStyle: "long", timeStyle: "short"})}`;
+  pintar();
+}).catch(() => { $("#meta").textContent = "No se pudieron cargar los datos."; });
+</script>
+</body>
+</html>
