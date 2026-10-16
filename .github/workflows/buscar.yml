@@ -1,0 +1,28 @@
+name: Buscar empresas como Pilou
+
+on:
+  workflow_dispatch:
+    inputs:
+      resultados:
+        description: "Resultados por búsqueda"
+        default: "10"
+      minimo:
+        description: "Parecido mínimo (0-100)"
+        default: "25"
+
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python buscar_empresas_como_pilou.py --resultados "${{ inputs.resultados }}" --minimo "${{ inputs.minimo }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: empresas-como-pilou
+          path: |
+            empresas_como_pilou.csv
+            empresas_como_pilou.xlsx
