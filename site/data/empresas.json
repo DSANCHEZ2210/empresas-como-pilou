@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16T14:12:38+00:00",
+ "actualizado": "2026-10-16T14:17:50+00:00",
  "empresas": [
   {
    "empresa": "PRO Network",
@@ -13,7 +13,7 @@
    "mexicana": true,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Mujer Financiera | Cursos de finanzas e inversiones desde cero",
@@ -34,14 +34,28 @@
    "web": "https://visionarias.business/",
    "pais_probable": "España",
    "rasgos": "inversion, ahorro, mujeres, educacion, asesoria, empresas_b2b, latam, digital",
-   "descripcion": "El crecimiento del ecosistema Fintech y Femtech no sería posible sin el impulso de fondos de inversión con enfoque de género y redes de apoyo que promueven el liderazgo femenino; estas plataformas fortalecen el ecosistema emprendedor femenino, generando condiciones para una participación más equitativa y estratégica.",
+   "descripcion": "«La revolución de las mujeres en Fintech y Femtech está reconfigurando el sistema financiero con innovación, liderazgo y propósito. Desde el crecimiento de fundadoras y ejecutivas en todo el mundo, hasta el desarrollo de tecnologías con enfoque de género, el impacto femenino se extiende a la inclusión financiera, la inversión estratégica y la creación de redes de apoyo. Este ...",
    "instagram": "https://www.instagram.com/visionarias.business/",
    "linkedin": "https://www.linkedin.com/company/visionarias",
    "email": "",
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "Finantres: Aprende a invertir bien y compara plataformas",
+   "web": "https://finantres.com/",
+   "pais_probable": "España",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, empresas_b2b, regulada, latam, digital",
+   "descripcion": "Aprende a invertir bien y compara las mejores plataformas con análisis reales, guías paso a paso y sin publicidad engañosa.",
+   "instagram": "",
+   "linkedin": "https://www.linkedin.com/company/finantres/",
+   "email": "contacto@finantres.com",
+   "mexicana": false,
+   "parecido_pilou": 82,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Finantres México: Te ayuda a encontrar tu plataforma de inversión",
@@ -55,7 +69,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Invertir es así de simple, tus inversiones reguladas - Fintual",
@@ -69,7 +83,35 @@
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "Asesor Financiero Certificado AMIB en México | Asesores Inversión",
+   "web": "https://asesoresinversion.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam, digital",
+   "descripcion": "Asesoría de inversión personalizada en México con un asesor certificado por la AMIB y registrado en CNBV. Invierte con estrategia y rigor, sin humo. Primera consulta gratis.",
+   "instagram": "https://www.instagram.com/asesores_inv/",
+   "linkedin": "",
+   "email": "contacto@asesoresinversion.com",
+   "mexicana": true,
+   "parecido_pilou": 76,
+   "primera_vez": "2026-10-16T14:12:38+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "Inicio | Morado",
+   "web": "https://www.moradocolombia.com/",
+   "pais_probable": "Colombia",
+   "rasgos": "inversion, ahorro, mujeres, educacion, asesoria, latam, digital",
+   "descripcion": "Morado Inclusive Fintech 2024 Nuestra Misión Impulsamos negocios, transformamos futuros En Morado, creemos en el poder de las oportunidades. Nuestra misión es brindar acceso a soluciones financieras ágiles y flexibles que impulsen el crecimiento de emprendedores y negocios en Colombia y Latinoamérica.",
+   "instagram": "https://www.instagram.com/moradocolombia/",
+   "linkedin": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://co.linkedin.com/company/moradoweb&ved=2ahUKEwjvoc_VibqLAxUpRTABHT2iALwQFnoECAkQAQ&usg=AOvVaw3dE0oCYMWsMrcbtNFfbn9g",
+   "email": "contacto@morado.app",
+   "mexicana": false,
+   "parecido_pilou": 76,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Asesoría Financiera para Mujeres en México | Eunik",
@@ -83,7 +125,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Alquimista del Dinero — Finanzas personales claras para Latinoamérica",
@@ -97,7 +139,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "PLD México 2026: Software y Cumplimiento Antilavado | Regcheq",
@@ -122,20 +164,6 @@
    "instagram": "",
    "linkedin": "https://www.linkedin.com/company/sherpa-wmc/",
    "email": "contacto@lakpa.lat",
-   "mexicana": true,
-   "parecido_pilou": 71,
-   "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
-  },
-  {
-   "empresa": "Asesor Financiero Certificado AMIB en México | Asesores Inversión",
-   "web": "https://asesoresinversion.com/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam",
-   "descripcion": "Asesoría de inversión personalizada en México con un asesor certificado por la AMIB y registrado en CNBV. Invierte con estrategia y rigor, sin humo. Primera consulta gratis.",
-   "instagram": "https://www.instagram.com/asesores_inv/",
-   "linkedin": "",
-   "email": "contacto@asesoresinversion.com",
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
@@ -170,18 +198,46 @@
    "ultima_vez": "2026-10-16T14:12:38+00:00"
   },
   {
+   "empresa": "Invierte en tu Futuro | el fondo",
+   "web": "https://www.el-fondo.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, principiantes, educacion, asesoria, regulada, latam, digital",
+   "descripcion": "La plataforma líder de datos y educación financiera para Latinoamérica: El Fondo reúne acciones, ETFs, cripto y divisas con datos de nivel institucional, explicados con claridad. Explora, compara y aprende a invertir con confianza.",
+   "instagram": "https://www.instagram.com/elfondo.inversiones/",
+   "linkedin": "https://www.linkedin.com/company/el-fondo-com-1/",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "Microwd - Nicaragua",
+   "web": "https://microwdnicaragua.com/",
+   "pais_probable": "",
+   "rasgos": "mujeres, principiantes, educacion, asesoria, regulada, latam, digital",
+   "descripcion": "Financiamos los negocios de las mujeres más extraordinarias de Nicaragua",
+   "instagram": "",
+   "linkedin": "",
+   "email": "oficina1.nica@microwd.es, oficina2.nica@microwd.es",
+   "mexicana": false,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
    "empresa": "Bolsa24: Análisis y Comparativas de brokers para invertir con confianza",
    "web": "https://www.bolsa24.net/",
    "pais_probable": "España",
-   "rasgos": "inversion, principiantes, educacion, asesoria, regulada, latam, digital",
+   "rasgos": "inversion, principiantes, educacion, asesoria, latam, digital",
    "descripcion": "Bolsa24 es tu portal de confianza para elegir los mejores brokers: análisis profesionales, rankings independientes y metodología transparente.",
    "instagram": "https://www.instagram.com/bolsa24real/",
    "linkedin": "",
    "email": "info@bolsa24.com",
    "mexicana": false,
-   "parecido_pilou": 71,
+   "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Puntored:Plataforma de pagos impulsa la inclusión financiera",
@@ -195,7 +251,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Teia Invest | Educación financiera e inversiones para mujeres en Colombia y LATAM",
@@ -237,7 +293,7 @@
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Mercadopeso🥇Compara préstamos y tarjetas de crédito",
@@ -300,28 +356,14 @@
    "web": "https://flink.co/",
    "pais_probable": "Colombia",
    "rasgos": "inversion, ahorro, educacion, asesoria, empresas_b2b, latam",
-   "descripcion": "En FLINK, nos enorgullecemos de contar con un equipo altamente experimentado en el desarrollo y crecimiento empresarial, el venture capital y la banca de inversión. Estamos aquí para guiar tu empresa hacia el éxito con nuestra experiencia y dedicación.",
+   "descripcion": "En FLINK, nos enorgullecemos de contar con un equipo altamente experimentado en el desarrollo y crecimiento empresarial, el venture capital y la banca de inversión.",
    "instagram": "",
    "linkedin": "https://www.linkedin.com/company/flink-co/",
    "email": "info@flink.co",
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
-  },
-  {
-   "empresa": "Kuspit | Inversión para principiantes y expertos",
-   "web": "https://www.kuspit.com/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, principiantes, asesoria, latam, digital",
-   "descripcion": "Invierte desde México en Acciones de todo el mundo, CETES, ETF's y más con la comisión más baja del mercado.",
-   "instagram": "",
-   "linkedin": "",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 59,
-   "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Inversiones Chidas | Inversiones y Educación Financiera",
@@ -338,6 +380,34 @@
    "ultima_vez": "2026-10-16T14:12:38+00:00"
   },
   {
+   "empresa": "Franco Martini",
+   "web": "https://fmaartini.cl/",
+   "pais_probable": "Chile",
+   "rasgos": "inversion, ahorro, principiantes, educacion, latam, digital",
+   "descripcion": "Franco Martini",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": false,
+   "parecido_pilou": 59,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "Kuspit | Inversión para principiantes y expertos",
+   "web": "https://kuspit.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, principiantes, asesoria, latam, digital",
+   "descripcion": "Invierte desde México en Acciones de todo el mundo, CETES, ETF's y más con la comisión más baja del mercado.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 53,
+   "primera_vez": "2026-10-16T14:12:38+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
    "empresa": "DineroenImagen",
    "web": "https://www.dineroenimagen.com/",
    "pais_probable": "México",
@@ -349,7 +419,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Software de Crédito - Administra tu cartera - Software para Sofom",
@@ -363,7 +433,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Diario de Trading con IA para Traders | Awake Trader | Awake Trader",
@@ -391,7 +461,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Microwd Inversiones - genera impacto social",
@@ -405,21 +475,77 @@
    "mexicana": false,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "ApartadoMex — Finanzas, IA, CETES y SAT para México 2026",
+   "web": "https://apartadomex.com.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, asesoria, regulada, latam, digital",
+   "descripcion": "Portal de inteligencia financiera para México: análisis gubernamental, inversión y herramientas de IA para decisiones más inteligentes con tu dinero.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "contacto@apartadomex.com.mx",
+   "mexicana": true,
+   "parecido_pilou": 53,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "Información sobre negocios financieros en México",
+   "web": "https://negociosfinancieros.com.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, educacion, asesoria, latam, digital",
+   "descripcion": "Descubre información sobre negocios financieros en México, con guías y análisis para optimizar tus decisiones y recursos.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 53,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "GodinMX — Todo para el godín mexicano | GodinMX",
+   "web": "https://godinmx.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, educacion, empresas_b2b, latam, digital",
+   "descripcion": "Calculadoras de derechos laborales, guías LFT, comunidad de trabajadores, fondas, juegos y lo que necesitas saber sin que tu jefe lo sepa.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 53,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "Finfit — Cajas y fondos de ahorro laborales | Bienestar financiero",
+   "web": "https://www.finfit.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, educacion, empresas_b2b, latam, digital",
+   "descripcion": "Finfit: ecosistema digital de bienestar financiero laboral. Caja de ahorro, fondo de ahorro, pago de servicios y seguros para tus colaboradores.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "contacto@finfit.mx",
+   "mexicana": true,
+   "parecido_pilou": 53,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "ADDEM CAPITAL",
    "web": "https://www.addemcapital.mx/",
    "pais_probable": "México",
    "rasgos": "inversion, ahorro, mujeres, latam",
-   "descripcion": "Su producto Pilou Kids permite a las familias abrir cuentas de inversión para menores de edad, con los padres como cotitulares. Cuando el niño o la niña cumple 18 años, la cuenta pasa a su nombre, fomentando desde la infancia una conversación abierta y sana sobre el manejo del dinero.",
+   "descripcion": "En México, más de 10 millones de mujeres han vivido violencia económica, pero menos del 13% la reconoce», afirma Patricia Florencia, cofundadora de Pilou.",
    "instagram": "https://www.instagram.com/addem_capital/",
    "linkedin": "https://www.linkedin.com/company/addem-capital/",
    "email": "",
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "MiFinGuía — Bancos, seguros y herramientas en español",
@@ -433,7 +559,35 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "Ahorro Rinde -",
+   "web": "https://ahorrorinde.com.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, educacion, latam, digital",
+   "descripcion": "Jul 27, 2026 · Conoce las mejores plataformas para invertir en México, qué ofrecen, cuánto cuestan y cuál se adapta a tu perfil de inversión.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 47,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
+  },
+  {
+   "empresa": "Akiba | Bienestar financiero para empresas en México",
+   "web": "https://akibaa.com/",
+   "pais_probable": "México",
+   "rasgos": "ahorro, educacion, asesoria, empresas_b2b, latam, digital",
+   "descripcion": "Plataforma de bienestar financiero para empresas: caja y fondo de ahorro, sueldo anticipado y educación financiera en una sola app.",
+   "instagram": "https://www.instagram.com/akibamexico?igsh=MW82bnpmM2tqcXZrdw==",
+   "linkedin": "https://www.linkedin.com/company/akiba/",
+   "email": "info@akibaa.com, minombre@mail.com, ventas@akibaa.com",
+   "mexicana": true,
+   "parecido_pilou": 47,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
    "empresa": "Inversión Más Rentable | Trading Algorítmico e IA Financiera | Inversión Más Rentable",
@@ -476,6 +630,20 @@
    "parecido_pilou": 41,
    "primera_vez": "2026-10-16T14:12:38+00:00",
    "ultima_vez": "2026-10-16T14:12:38+00:00"
+  },
+  {
+   "empresa": "Guías de Viaje",
+   "web": "https://guiasdeviaje.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, educacion, latam, digital",
+   "descripcion": "Guías completas de México y el mundo — destinos, pueblos mágicos, playas y rutas gastronómicas con consejos reales para viajeros.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 41,
+   "primera_vez": "2026-10-16T14:17:50+00:00",
+   "ultima_vez": "2026-10-16T14:17:50+00:00"
   }
  ]
 }
