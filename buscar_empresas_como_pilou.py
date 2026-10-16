@@ -157,6 +157,8 @@ def leer_web(url):
     try:
         r = requests.get(raiz, headers={"User-Agent": UA}, timeout=15)
         r.raise_for_status()
+        if "charset" not in r.headers.get("content-type", "").lower():
+            r.encoding = r.apparent_encoding  # evita textos tipo "AsesorÃ­a"
     except Exception as e:
         return {"web": raiz, "error": str(e)[:120]}
     return analizar_html(r.text, raiz)
