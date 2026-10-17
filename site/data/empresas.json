@@ -1,19 +1,19 @@
 {
- "actualizado": "2026-10-16T14:17:50+00:00",
+ "actualizado": "2026-10-17T16:13:21+00:00",
  "empresas": [
   {
-   "empresa": "PRO Network",
-   "web": "https://www.pronetwork.mx/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, mujeres, educacion, asesoria, empresas_b2b, latam, digital",
-   "descripcion": "Impulsamos la prosperidad empresarial con tecnología, reconocimiento y bienestar organizacional",
-   "instagram": "",
-   "linkedin": "https://www.linkedin.com/company/3836753/admin/dashboard/",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 82,
-   "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "empresa": "Mujeres y Dinero | educación financiera",
+   "web": "https://www.mujeres-y-dinero.com/",
+   "pais_probable": "Uruguay",
+   "rasgos": "inversion, ahorro, mujeres, principiantes, educacion, asesoria, empresas_b2b, latam, digital",
+   "descripcion": "APOYAMOS A MUJERES DE TODAS LAS EDADES PARA QUE APRENDAN A MANEJAR SU DINERO CON CONFIANZA. A veces creemos que los temas vinculados al dinero son “demasiado difíciles” para nosotras.  Desmitifiquemos el tema y tomemos las riendas de nuestra vida financiera. Hay una forma fácil, clara y segura para ",
+   "instagram": "https://www.instagram.com/mujeresydinerouy/",
+   "linkedin": "https://www.linkedin.com/company/mujeresydinero/",
+   "email": "contanos@mujeresydinero.uy",
+   "mexicana": false,
+   "parecido_pilou": 94,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Mujer Financiera | Cursos de finanzas e inversiones desde cero",
@@ -27,7 +27,7 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Visionarias Business - Visionarias Business",
@@ -41,7 +41,7 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Finantres: Aprende a invertir bien y compara plataformas",
@@ -55,7 +55,21 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "PRO Network",
+   "web": "https://www.pronetwork.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, mujeres, educacion, asesoria, latam, digital",
+   "descripcion": "Impulsamos la prosperidad empresarial con tecnología, reconocimiento y bienestar organizacional",
+   "instagram": "",
+   "linkedin": "https://www.linkedin.com/company/3836753/admin/dashboard/",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 76,
+   "primera_vez": "2026-10-16T14:12:38+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Finantres México: Te ayuda a encontrar tu plataforma de inversión",
@@ -69,7 +83,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Invertir es así de simple, tus inversiones reguladas - Fintual",
@@ -97,7 +111,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Inicio | Morado",
@@ -114,6 +128,34 @@
    "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
+   "empresa": "ComparaBancaPerú: Compara Tasas Plazo Fijo, Ahorro y CTS 2026",
+   "web": "https://comparabancaperu.com/",
+   "pais_probable": "Perú",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam, digital",
+   "descripcion": "Compara tasas de 50+ bancos y cajas en Perú. Depósitos a plazo fijo, cuentas de ahorro, CTS, préstamos y tarjetas. Datos SBS actualizados septiembre 2026. 100% gratis.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "luisdrive57@gmail.com",
+   "mexicana": false,
+   "parecido_pilou": 76,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Finamex   Casa De Bolsa - Finamex Casa de Bolsa",
+   "web": "https://www.finamex.com.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam, digital",
+   "descripcion": "Somos una firma orgullosamente mexicana, líder como proveedora de servicios de acceso al mercado Mexicano de Valores.",
+   "instagram": "JavaScript:metConfirmar('https://instagram.com/finamexcb')",
+   "linkedin": "JavaScript:metConfirmar('https://www.linkedin.com/company/casa-de-bolsa-finamex-ciudad-de-m-xico-mxico')",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 76,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
    "empresa": "Asesoría Financiera para Mujeres en México | Eunik",
    "web": "https://eunik.mx/",
    "pais_probable": "México",
@@ -125,21 +167,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
-  },
-  {
-   "empresa": "Alquimista del Dinero — Finanzas personales claras para Latinoamérica",
-   "web": "https://alquimistadeldinero.com/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, latam, digital",
-   "descripcion": "Finanzas personales claras y sin humo para Latinoamérica: cómo ahorrar, invertir desde cero, salir de deudas y generar ingresos extra.",
-   "instagram": "https://www.instagram.com/alquimista_del_dinero/",
-   "linkedin": "",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 71,
-   "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "PLD México 2026: Software y Cumplimiento Antilavado | Regcheq",
@@ -153,7 +181,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Inicio - Lakpa",
@@ -167,7 +195,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Principales noticias de Colombia y el mundo | La FM",
@@ -195,7 +223,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Invierte en tu Futuro | el fondo",
@@ -209,7 +237,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Microwd - Nicaragua",
@@ -223,7 +251,35 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Escuela profesional de traders - NovatosTrading Club",
+   "web": "https://www.novatostradingclub.com/",
+   "pais_probable": "Perú",
+   "rasgos": "inversion, principiantes, educacion, asesoria, regulada, latam, digital",
+   "descripcion": "Escuela Profesional de Traders con más de 11 años de experiencia formando traders ganadores. Aprende a ganar dinero en Bolsa.",
+   "instagram": "https://www.instagram.com/novatos.trading.club/",
+   "linkedin": "",
+   "email": "",
+   "mexicana": false,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Alquimista del Dinero — Finanzas personales claras para Latinoamérica",
+   "web": "https://alquimistadeldinero.com/",
+   "pais_probable": "Argentina",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, latam",
+   "descripcion": "Finanzas personales claras y sin humo para Latinoamérica: cómo ahorrar, invertir desde cero, salir de deudas y generar ingresos extra.",
+   "instagram": "https://www.instagram.com/alquimista_del_dinero/",
+   "linkedin": "",
+   "email": "",
+   "mexicana": false,
+   "parecido_pilou": 65,
+   "primera_vez": "2026-10-16T14:12:38+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Bolsa24: Análisis y Comparativas de brokers para invertir con confianza",
@@ -237,7 +293,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Puntored:Plataforma de pagos impulsa la inclusión financiera",
@@ -251,7 +307,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Teia Invest | Educación financiera e inversiones para mujeres en Colombia y LATAM",
@@ -265,7 +321,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Inicio | Préstamos seguros para emprendedoras",
@@ -279,7 +335,35 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Mujer Emprende",
+   "web": "https://www.mujeremprendeglobal.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, mujeres, educacion, empresas_b2b, latam, digital",
+   "descripcion": "Escuela de Negocios para Mujeres",
+   "instagram": "https://www.instagram.com/mujeremprendeglobal",
+   "linkedin": "https://www.linkedin.com/company/mujer-emprende/",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 65,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "BECAS BENITO JUÁREZ 2025: Requisitos, REGISTRO y FECHAS de pago 📅",
+   "web": "https://becasbenitojuarezmx.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, mujeres, educacion, latam, digital",
+   "descripcion": "Consulta todo sobre las BECAS BENITO JUÁREZ 2025. Revisa REQUISITOS, haz tu REGISTRO y conoce las FECHAS de pago oficiales. ¡Haz clic y entérate ahora!",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 65,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "ColCapital | Asociación Colombiana de Capital Privado",
@@ -342,14 +426,14 @@
    "web": "https://fundacionana.org/",
    "pais_probable": "Ecuador",
    "rasgos": "inversion, mujeres, educacion, latam, digital",
-   "descripcion": "¿Estás lista para llevar tu emprendimiento al siguiente nivel y tomar el control total de tus finanzas? Este curso está pensado para mujeres que quieren aprender a cuidar su dinero, invertirlo bien y hacer su negocio más fuerte, fue diseñado por Cooperativa Andalucía.",
+   "descripcion": "El curso “Camino Financiero de la Mujer Emprendedora” bajo la modalidad virtual, fue diseñada especialmente para mujeres que desean fortalecer su autonomía económica, transformar su relación con el dinero y potenciar su liderazgo personal. A través de herramientas prácticas y conceptos financieros clave, aprenderás a gestionar el dinero de manera estratégica, identificar ...",
    "instagram": "https://www.instagram.com/fundacionanaec/",
    "linkedin": "",
    "email": "",
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Flink – Venture Capital",
@@ -391,7 +475,77 @@
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Inversión Más Rentable | Trading Algorítmico e IA Financiera | Inversión Más Rentable",
+   "web": "https://www.inversionmasrentable.com/",
+   "pais_probable": "Argentina",
+   "rasgos": "inversion, principiantes, educacion, asesoria, latam",
+   "descripcion": "Expertos en trading algorítmico, inteligencia artificial para inversiones y consultoría financiera. Maximiza tus rendimientos con tecnología de punta.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "contacto@inversionmasrentable.com",
+   "mexicana": false,
+   "parecido_pilou": 59,
+   "primera_vez": "2026-10-16T14:12:38+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Educación Financiera e Inversión Inteligente para Crecer -",
+   "web": "https://hazcrecereldinero.com/",
+   "pais_probable": "España",
+   "rasgos": "inversion, ahorro, principiantes, educacion, regulada, digital",
+   "descripcion": "Aprende a invertir, ahorrar y generar ingresos pasivos con guías claras y estrategias reales. Tu libertad financiera empieza aquí, sin rodeos.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": false,
+   "parecido_pilou": 59,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Home | Minerva Educación Financiera",
+   "web": "https://www.minervaeducacionfinanciera.mx/",
+   "pais_probable": "",
+   "rasgos": "inversion, ahorro, mujeres, educacion, digital",
+   "descripcion": "Proyecto Minerva. Educación financiera con perspectiva de género.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 59,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Te acompañamos en cada paso para lograr lo que te propongas | BBVA México",
+   "web": "https://www.bbva.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, educacion, asesoria, latam, digital",
+   "descripcion": "Vamos contigo en cada decisión. Inicia con una cuenta y accede a más soluciones financieras, desde ahorro hasta un crédito de auto ¿Avanzamos?",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 59,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Finanzas Transparentes | Finsus",
+   "web": "https://finsus.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, asesoria, empresas_b2b, regulada, latam, digital",
+   "descripcion": "SOFIPO líder en México, especializada en ahorro e inversión con rendimientos competitivos y total seguridad. Abre tu cuenta en minutos y haz crecer tu dinero de forma simple, confiable y sin complicaciones.",
+   "instagram": "https://www.instagram.com/finsusapp",
+   "linkedin": "",
+   "email": "info@finsus.mx",
+   "mexicana": true,
+   "parecido_pilou": 59,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Kuspit | Inversión para principiantes y expertos",
@@ -405,7 +559,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "DineroenImagen",
@@ -433,7 +587,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Diario de Trading con IA para Traders | Awake Trader | Awake Trader",
@@ -475,7 +629,7 @@
    "mexicana": false,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "ApartadoMex — Finanzas, IA, CETES y SAT para México 2026",
@@ -489,7 +643,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Información sobre negocios financieros en México",
@@ -503,7 +657,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "GodinMX — Todo para el godín mexicano | GodinMX",
@@ -517,7 +671,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Finfit — Cajas y fondos de ahorro laborales | Bienestar financiero",
@@ -531,7 +685,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "ADDEM CAPITAL",
@@ -559,7 +713,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:17:50+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Ahorro Rinde -",
@@ -590,18 +744,46 @@
    "ultima_vez": "2026-10-16T14:17:50+00:00"
   },
   {
-   "empresa": "Inversión Más Rentable | Trading Algorítmico e IA Financiera | Inversión Más Rentable",
-   "web": "https://www.inversionmasrentable.com/",
-   "pais_probable": "",
-   "rasgos": "inversion, educacion, asesoria",
-   "descripcion": "Expertos en trading algorítmico, inteligencia artificial para inversiones y consultoría financiera. Maximiza tus rendimientos con tecnología de punta.",
+   "empresa": "Marketb2b - es un marketplace B2B de productos industriales y de consumo",
+   "web": "https://marketb2b.mx/",
+   "pais_probable": "México",
+   "rasgos": "mujeres, educacion, empresas_b2b, latam, digital",
+   "descripcion": "Marketplace B2B |  Publica tus productos | Sin comisiones | Generamos tráfico orgánico hacia tus productos | Incremeta tus ventas.",
    "instagram": "",
    "linkedin": "",
-   "email": "contacto@inversionmasrentable.com",
-   "mexicana": false,
-   "parecido_pilou": 41,
-   "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 47,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Puntored",
+   "web": "https://puntored.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, educacion, empresas_b2b, latam, digital",
+   "descripcion": "Somos la red transaccional que conecta lo físico con lo digital, acercando servicios financieros a más personas, comercios y empresas en América Latina.",
+   "instagram": "https://www.instagram.com/puntoredmx/",
+   "linkedin": "https://www.linkedin.com/company/puntored-gestopago-mexico/",
+   "email": "contacto@gestopago.com, contacto@puntored.mx",
+   "mexicana": true,
+   "parecido_pilou": 47,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
+  },
+  {
+   "empresa": "Microwd - México",
+   "web": "https://microwd.mx/",
+   "pais_probable": "México",
+   "rasgos": "mujeres, educacion, asesoria, latam",
+   "descripcion": "Microwd en México",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 47,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "GBMfondos",
@@ -615,7 +797,7 @@
    "mexicana": true,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-16T14:12:38+00:00"
+   "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
    "empresa": "Home - GBM",
