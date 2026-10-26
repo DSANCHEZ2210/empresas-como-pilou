@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-25T17:01:26+00:00",
+ "actualizado": "2026-10-26T19:06:00+00:00",
  "empresas": [
   {
    "empresa": "Mujeres y Dinero | educación financiera",
@@ -30,6 +30,20 @@
    "ultima_vez": "2026-10-24T16:32:11+00:00"
   },
   {
+   "empresa": "Perfil | Ultimas noticias de Argentina y el mundo",
+   "web": "https://www.perfil.com/",
+   "pais_probable": "Brasil",
+   "rasgos": "inversion, mujeres, principiantes, educacion, asesoria, empresas_b2b, latam, digital",
+   "descripcion": "Periodismo Puro: breaking news, análisis y los mejores columnistas cubriendo los temas más importantes de la Argentina y el mundo",
+   "instagram": "https://www.instagram.com/perfilcom/",
+   "linkedin": "",
+   "email": "",
+   "mexicana": false,
+   "parecido_pilou": 88,
+   "primera_vez": "2026-10-26T19:06:00+00:00",
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
+  },
+  {
    "empresa": "Mujer Financiera | Cursos de finanzas e inversiones desde cero",
    "web": "https://www.mujer-financiera.com/",
    "pais_probable": "Argentina",
@@ -41,21 +55,21 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Visionarias Business - Visionarias Business",
    "web": "https://visionarias.business/",
    "pais_probable": "España",
    "rasgos": "inversion, ahorro, mujeres, educacion, asesoria, empresas_b2b, latam, digital",
-   "descripcion": "El crecimiento del ecosistema Fintech y Femtech no sería posible sin el impulso de fondos de inversión con enfoque de género y redes de apoyo que promueven el liderazgo femenino; estas plataformas fortalecen el ecosistema emprendedor femenino, generando condiciones para una participación más equitativa y estratégica.",
+   "descripcion": "«La revolución de las mujeres en Fintech y Femtech está reconfigurando el sistema financiero con innovación, liderazgo y propósito. Desde el crecimiento de fundadoras y ejecutivas en todo el mundo, hasta el desarrollo de tecnologías con enfoque de género, el impacto femenino se extiende a la inclusión financiera, la inversión estratégica y la creación de redes de apoyo. Este ...",
    "instagram": "https://www.instagram.com/visionarias.business/",
    "linkedin": "https://www.linkedin.com/company/visionarias",
    "email": "",
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Finantres: Aprende a invertir bien y compara plataformas",
@@ -69,7 +83,7 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-20T17:52:13+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Tandazo — Autofinanciamiento $50k a $220k MXN sin intereses ni buró",
@@ -111,7 +125,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Invertir es así de simple, tus inversiones reguladas - Fintual",
@@ -125,21 +139,21 @@
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-24T16:32:11+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Inicio | Morado",
    "web": "https://www.moradocolombia.com/",
    "pais_probable": "Colombia",
    "rasgos": "inversion, ahorro, mujeres, educacion, asesoria, latam, digital",
-   "descripcion": "En Morado, creemos en el poder de las oportunidades. Nuestra misión es brindar acceso a soluciones financieras ágiles y flexibles que impulsen el crecimiento de emprendedores y negocios en Colombia y Latinoamérica.",
+   "descripcion": "Morado ofrece soluciones de crédito flexibles y estratégicas para impulsar negocios, además de productos de belleza y financiamiento para emprendedoras en América Latina.",
    "instagram": "https://www.instagram.com/moradocolombia/",
    "linkedin": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://co.linkedin.com/company/moradoweb&ved=2ahUKEwjvoc_VibqLAxUpRTABHT2iALwQFnoECAkQAQ&usg=AOvVaw3dE0oCYMWsMrcbtNFfbn9g",
    "email": "contacto@morado.app",
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "ComparaBancaPerú: Compara Tasas Plazo Fijo, Ahorro y CTS 2026",
@@ -153,7 +167,7 @@
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-10-24T16:32:11+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Finamex   Casa De Bolsa - Finamex Casa de Bolsa",
@@ -167,21 +181,35 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-10-17T16:13:21+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
+  },
+  {
+   "empresa": "Bolsa de Chile | IPSA en Tiempo Real | Portal #1 de Inversiones",
+   "web": "https://www.bolsadechile.cl/",
+   "pais_probable": "Chile",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam, digital",
+   "descripcion": "Cotizaciones IPSA, dólar, UF y fondos mutuos en tiempo real. Educación financiera, calculadoras y comunidad de inversores chilenos. Tu portal financiero de referencia.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": false,
+   "parecido_pilou": 76,
+   "primera_vez": "2026-10-26T19:06:00+00:00",
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Asesor Financiero Certificado AMIB en México | Asesores Inversión",
    "web": "https://asesoresinversion.com/",
    "pais_probable": "México",
-   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam, digital",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam",
    "descripcion": "Asesoría de inversión personalizada en México con un asesor certificado por la AMIB y registrado en CNBV. Invierte con estrategia y rigor, sin humo. Primera consulta gratis.",
    "instagram": "https://www.instagram.com/asesores_inv/",
    "linkedin": "",
    "email": "contacto@asesoresinversion.com",
    "mexicana": true,
-   "parecido_pilou": 76,
+   "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Asesoría Financiera para Mujeres en México | Eunik",
@@ -195,7 +223,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "PLD México 2026: Software y Cumplimiento Antilavado | Regcheq",
@@ -223,7 +251,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Capitelle Finance",
@@ -251,7 +279,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-23T17:48:58+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Microwd - Nicaragua",
@@ -391,7 +419,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Principales noticias de Colombia y el mundo | La FM",
@@ -419,7 +447,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Teia Invest | Educación financiera e inversiones para mujeres en Colombia y LATAM",
@@ -447,7 +475,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-24T16:32:11+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Mujer Emprende",
@@ -489,7 +517,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-18T16:27:03+00:00",
-   "ultima_vez": "2026-10-23T17:48:58+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "INV Seguros | Broker de seguros, retiro e inversión",
@@ -503,21 +531,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-19T19:09:32+00:00",
-   "ultima_vez": "2026-10-19T19:09:32+00:00"
-  },
-  {
-   "empresa": "Mejores tasas de CETES, SOFIPOs y bancos | Mis Finanzas Digitales",
-   "web": "https://misfinanzasdigitales.com/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, principiantes, educacion, regulada, latam, digital",
-   "descripcion": "Compara las mejores tasas de CETES, SOFIPOs y bancos en México. Encuentra dónde gana más tu dinero sin riesgo. Actualizado cada semana.",
-   "instagram": "https://www.instagram.com/ricardofinanzasdigitales/",
-   "linkedin": "",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 65,
-   "primera_vez": "2026-10-22T17:55:44+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "MEMIVI – Mejorando mi vida",
@@ -545,7 +559,35 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-24T16:32:11+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
+  },
+  {
+   "empresa": "Inicio - BlockIT Lab",
+   "web": "https://blockitlab.com/",
+   "pais_probable": "",
+   "rasgos": "inversion, mujeres, educacion, asesoria, digital",
+   "descripcion": "El laboratorio donde suceden tus ideas",
+   "instagram": "https://www.instagram.com/blockitlab/",
+   "linkedin": "",
+   "email": "proyectos@blockitlab.com",
+   "mexicana": false,
+   "parecido_pilou": 65,
+   "primera_vez": "2026-10-26T19:06:00+00:00",
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
+  },
+  {
+   "empresa": "Startups Argentina — Directorio y trabajos en el ecosistema startup",
+   "web": "https://www.startupsargentina.com/",
+   "pais_probable": "Argentina",
+   "rasgos": "inversion, ahorro, mujeres, educacion, latam, digital",
+   "descripcion": "Explorá startups de Argentina, LATAM y Estados Unidos que contratan talento desde Argentina.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "karen@yafu.app, people@tapi.la",
+   "mexicana": false,
+   "parecido_pilou": 65,
+   "primera_vez": "2026-10-26T19:06:00+00:00",
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "FinTech in Mexico — Inteligencia FinTech México",
@@ -601,7 +643,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Fundación Ana – Cuando una ecuatoriANA progresa, impulsa el crecimiento de su familia, su comunidad y su país.",
@@ -622,14 +664,14 @@
    "web": "https://flink.co/",
    "pais_probable": "Colombia",
    "rasgos": "inversion, ahorro, educacion, asesoria, empresas_b2b, latam",
-   "descripcion": "En FLINK, nos enorgullecemos de contar con un equipo altamente experimentado en el desarrollo y crecimiento empresarial, el venture capital y la banca de inversión. Estamos aquí para guiar tu empresa hacia el éxito con nuestra experiencia y dedicación.",
+   "descripcion": "En FLINK, nos enorgullecemos de contar con un equipo altamente experimentado en el desarrollo y crecimiento empresarial, el venture capital y la banca de inversión.",
    "instagram": "",
    "linkedin": "https://www.linkedin.com/company/flink-co/",
    "email": "info@flink.co",
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Inversiones Chidas | Inversiones y Educación Financiera",
@@ -657,7 +699,7 @@
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-22T17:55:44+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Educación Financiera e Inversión Inteligente para Crecer -",
@@ -814,6 +856,20 @@
    "ultima_vez": "2026-10-25T17:01:26+00:00"
   },
   {
+   "empresa": "Mejores tasas de CETES, SOFIPOs y bancos | Mis Finanzas Digitales",
+   "web": "https://misfinanzasdigitales.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, educacion, regulada, latam, digital",
+   "descripcion": "Compara las mejores tasas de CETES, SOFIPOs y bancos en México. Encuentra dónde gana más tu dinero sin riesgo. Actualizado cada semana.",
+   "instagram": "https://www.instagram.com/ricardofinanzasdigitales/",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 53,
+   "primera_vez": "2026-10-22T17:55:44+00:00",
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
+  },
+  {
    "empresa": "DineroenImagen",
    "web": "https://www.dineroenimagen.com/",
    "pais_probable": "México",
@@ -825,7 +881,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-24T16:32:11+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Software de Crédito - Administra tu cartera - Software para Sofom",
@@ -839,7 +895,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Diario de Trading con IA para Traders | Awake Trader | Awake Trader",
@@ -867,7 +923,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-24T16:32:11+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Microwd Inversiones - genera impacto social",
@@ -881,7 +937,7 @@
    "mexicana": false,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-24T16:32:11+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "ApartadoMex — Finanzas, IA, CETES y SAT para México 2026",
@@ -923,7 +979,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-24T16:32:11+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Finfit — Cajas y fondos de ahorro laborales | Bienestar financiero",
@@ -1105,21 +1161,21 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
-   "empresa": "Ahorro Rinde -",
+   "empresa": "Rendimientos, ahorro e inversión en México | Ahorro Rinde",
    "web": "https://ahorrorinde.com.mx/",
    "pais_probable": "México",
    "rasgos": "inversion, ahorro, educacion, latam, digital",
-   "descripcion": "Jul 27, 2026 · Conoce las mejores plataformas para invertir en México, qué ofrecen, cuánto cuestan y cuál se adapta a tu perfil de inversión.",
+   "descripcion": "Guías paso a paso sobre rendimientos fintech, Cetes, cuentas de ahorro y fondo de emergencia en México. Aprende a hacer rendir tu dinero hoy.",
    "instagram": "",
    "linkedin": "",
    "email": "",
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Akiba | Bienestar financiero para empresas en México",
@@ -1164,7 +1220,7 @@
    "ultima_vez": "2026-10-17T16:13:21+00:00"
   },
   {
-   "empresa": "Emprende Pro Mujer",
+   "empresa": "EMPRENDE PRO MUJER",
    "web": "https://emprendepromujer.org/",
    "pais_probable": "",
    "rasgos": "inversion, mujeres, educacion",
@@ -1175,7 +1231,7 @@
    "mexicana": false,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-19T19:09:32+00:00",
-   "ultima_vez": "2026-10-25T17:01:26+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Chatterize - Get the best financial products on the market",
@@ -1259,7 +1315,7 @@
    "mexicana": false,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-20T17:52:13+00:00",
-   "ultima_vez": "2026-10-24T16:32:11+00:00"
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   },
   {
    "empresa": "Inversión Más Rentable | Trading Algorítmico e IA Financiera | Inversión Más Rentable",
@@ -1386,6 +1442,20 @@
    "parecido_pilou": 41,
    "primera_vez": "2026-10-22T17:55:44+00:00",
    "ultima_vez": "2026-10-24T16:32:11+00:00"
+  },
+  {
+   "empresa": "Inicio - FIMSE Asesoría Patrimonial Independiente S de RL de CV",
+   "web": "https://www.fimse.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, asesoria, regulada, latam",
+   "descripcion": "Conoce FIMSE, Asesores de Inversión Independientes con 30 años de EXPERIENCIA.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 41,
+   "primera_vez": "2026-10-26T19:06:00+00:00",
+   "ultima_vez": "2026-10-26T19:06:00+00:00"
   }
  ]
 }
