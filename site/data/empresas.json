@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T18:52:49+00:00",
+ "actualizado": "2026-10-30T18:29:50+00:00",
  "empresas": [
   {
    "empresa": "Mujeres y Dinero | educación financiera",
@@ -27,7 +27,7 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Visionarias Business - Visionarias Business",
@@ -97,7 +97,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Invertir es así de simple, tus inversiones reguladas - Fintual",
@@ -111,7 +111,7 @@
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Inicio | Morado",
@@ -125,7 +125,7 @@
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "ComparaBancaPerú: Compara Tasas Plazo Fijo, Ahorro y CTS 2026",
@@ -139,7 +139,7 @@
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-10-27T18:39:08+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Finamex   Casa De Bolsa - Finamex Casa de Bolsa",
@@ -153,7 +153,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-10-27T18:39:08+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Bolsa de Chile | IPSA en Tiempo Real | Portal #1 de Inversiones",
@@ -167,20 +167,6 @@
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-26T19:06:00+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
-  },
-  {
-   "empresa": "Asesor Financiero Certificado AMIB en México | Asesores Inversión",
-   "web": "https://asesoresinversion.com/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam, digital",
-   "descripcion": "Asesoría de inversión personalizada en México con un asesor certificado por la AMIB y registrado en CNBV. Invierte con estrategia y rigor, sin humo. Primera consulta gratis.",
-   "instagram": "https://www.instagram.com/asesores_inv/",
-   "linkedin": "",
-   "email": "contacto@asesoresinversion.com",
-   "mexicana": true,
-   "parecido_pilou": 76,
-   "primera_vez": "2026-10-16T14:12:38+00:00",
    "ultima_vez": "2026-10-29T18:52:49+00:00"
   },
   {
@@ -198,6 +184,34 @@
    "ultima_vez": "2026-10-29T18:52:49+00:00"
   },
   {
+   "empresa": "Scotiabank México | Tienes Más de lo que Crees",
+   "web": "https://www.scotiabank.com.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, mujeres, educacion, asesoria, latam, digital",
+   "descripcion": "Asesoría personalizada, soluciones financieras y el respaldo de un banco global. Con Scotiabank tienes más para alcanzar tus metas.",
+   "instagram": "https://www.instagram.com/scotiabankmx/",
+   "linkedin": "https://www.linkedin.com/company/scotiabank/",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 76,
+   "primera_vez": "2026-10-30T18:29:50+00:00",
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
+  },
+  {
+   "empresa": "Asesor Financiero Certificado AMIB en México | Asesores Inversión",
+   "web": "https://asesoresinversion.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam",
+   "descripcion": "Asesoría de inversión personalizada en México con un asesor certificado por la AMIB y registrado en CNBV. Invierte con estrategia y rigor, sin humo. Primera consulta gratis.",
+   "instagram": "https://www.instagram.com/asesores_inv/",
+   "linkedin": "",
+   "email": "contacto@asesoresinversion.com",
+   "mexicana": true,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-10-16T14:12:38+00:00",
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
+  },
+  {
    "empresa": "Asesoría Financiera para Mujeres en México | Eunik",
    "web": "https://eunik.mx/",
    "pais_probable": "México",
@@ -209,7 +223,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "PLD México 2026: Software y Cumplimiento Antilavado | Regcheq",
@@ -237,7 +251,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-27T18:39:08+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Capitelle Finance",
@@ -307,7 +321,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-19T19:09:32+00:00",
-   "ultima_vez": "2026-10-19T19:09:32+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Inicio - ASEM - Asociación de Emprendedores de México",
@@ -433,7 +447,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-26T19:06:00+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Club privado de inversión para mujeres | Inversoras Club",
@@ -462,6 +476,20 @@
    "parecido_pilou": 71,
    "primera_vez": "2026-10-29T18:52:49+00:00",
    "ultima_vez": "2026-10-29T18:52:49+00:00"
+  },
+  {
+   "empresa": "POSTA",
+   "web": "https://www.posta.com.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, mujeres, principiantes, educacion, latam, digital",
+   "descripcion": "Creamos contenidos innovadores dándole un toque cool y 100 por ciento confiable. Llevamos las noticias más destacadas con presencia en 16 estados de México",
+   "instagram": "https://www.instagram.com/postamx/",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-10-18T16:27:03+00:00",
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Bolsa24: Análisis y Comparativas de brokers para invertir con confianza",
@@ -503,7 +531,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Teia Invest | Educación financiera e inversiones para mujeres en Colombia y LATAM",
@@ -531,7 +559,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-28T18:44:26+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Mujer Emprende",
@@ -559,7 +587,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Préstamos personales e inversiones entre personas | yotepresto.com",
@@ -587,7 +615,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-19T19:09:32+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "MEMIVI – Mejorando mi vida",
@@ -615,7 +643,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-26T19:06:00+00:00",
-   "ultima_vez": "2026-10-26T19:06:00+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "HOME | PulsoSaludable cuidando tu estilo y forma de vida",
@@ -685,7 +713,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-20T17:52:13+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Mercadopeso🥇Compara préstamos y tarjetas de crédito",
@@ -727,7 +755,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Fundación Ana – Cuando una ecuatoriANA progresa, impulsa el crecimiento de su familia, su comunidad y su país.",
@@ -797,7 +825,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Te acompañamos en cada paso para lograr lo que te propongas | BBVA México",
@@ -884,20 +912,6 @@
    "ultima_vez": "2026-10-29T18:52:49+00:00"
   },
   {
-   "empresa": "POSTA",
-   "web": "https://www.posta.com.mx/",
-   "pais_probable": "México",
-   "rasgos": "inversion, mujeres, educacion, latam, digital",
-   "descripcion": "Creamos contenidos innovadores dándole un toque cool y 100 por ciento confiable. Llevamos las noticias más destacadas con presencia en 16 estados de México",
-   "instagram": "https://www.instagram.com/postamx/",
-   "linkedin": "",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 59,
-   "primera_vez": "2026-10-18T16:27:03+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
-  },
-  {
    "empresa": "Últimas noticias de Argentina y el mundo - LA NACION",
    "web": "https://www.lanacion.com.ar/",
    "pais_probable": "Argentina",
@@ -979,7 +993,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Software de Crédito - Administra tu cartera - Software para Sofom",
@@ -993,7 +1007,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Diario de Trading con IA para Traders | Awake Trader | Awake Trader",
@@ -1021,7 +1035,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Microwd Inversiones - genera impacto social",
@@ -1035,7 +1049,7 @@
    "mexicana": false,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-26T19:06:00+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "ApartadoMex — Finanzas, IA, CETES y SAT para México 2026",
@@ -1049,7 +1063,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Información sobre negocios financieros en México",
@@ -1063,7 +1077,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "GodinMX — Todo para el godín mexicano | GodinMX",
@@ -1119,7 +1133,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-18T16:27:03+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Fondos de Inversión en Monterrey | Planes Planifica Futuro",
@@ -1203,7 +1217,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-24T16:32:11+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Plataforma de Beneficios Para Empleados | minu",
@@ -1220,20 +1234,6 @@
    "ultima_vez": "2026-10-27T18:39:08+00:00"
   },
   {
-   "empresa": "CashControlly · End the month with money, not red numbers",
-   "web": "https://cashcontrolly.com/",
-   "pais_probable": "Perú",
-   "rasgos": "inversion, principiantes, educacion, latam, digital",
-   "descripcion": "Personal finance app. Budgets, savings goals, scheduled expenses. 14-day free trial, no card required.",
-   "instagram": "",
-   "linkedin": "",
-   "email": "",
-   "mexicana": false,
-   "parecido_pilou": 53,
-   "primera_vez": "2026-10-20T17:52:13+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
-  },
-  {
    "empresa": "108 Investments | Gestión Patrimonial e Inversiones",
    "web": "https://www.108investments.com.mx/",
    "pais_probable": "México",
@@ -1245,7 +1245,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-27T18:39:08+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Guías de Viaje",
@@ -1273,7 +1273,7 @@
    "mexicana": false,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-29T18:52:49+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Tiendanube | Creá gratis tu tienda online",
@@ -1288,6 +1288,34 @@
    "parecido_pilou": 53,
    "primera_vez": "2026-10-29T18:52:49+00:00",
    "ultima_vez": "2026-10-29T18:52:49+00:00"
+  },
+  {
+   "empresa": "Moneda: Co-Invest With an AI That Does the Research",
+   "web": "https://moneda.com/",
+   "pais_probable": "Chile",
+   "rasgos": "inversion, principiantes, educacion, latam, digital",
+   "descripcion": "Moneda AI researches stocks, ETFs, commodities and crypto with live market data, helps you build and track a portfolio, and lets you invest in the same app. Free to start.",
+   "instagram": "",
+   "linkedin": "https://www.linkedin.com/company/moneda-com/",
+   "email": "hello@moneda.com",
+   "mexicana": false,
+   "parecido_pilou": 53,
+   "primera_vez": "2026-10-30T18:29:50+00:00",
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
+  },
+  {
+   "empresa": "Pagoralia · Cobranza recurrente automatizada para empresas de servicios",
+   "web": "https://pagoralia.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, educacion, empresas_b2b, latam, digital",
+   "descripcion": "Cobranza recurrente para empresas de servicios: suscripciones, facturación y conciliación automática, integradas a tu sistema de gestión. Cobra en 13 países con medios de pago locales.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 53,
+   "primera_vez": "2026-10-30T18:29:50+00:00",
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Marketb2b - es un marketplace B2B de productos industriales y de consumo",
@@ -1329,7 +1357,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Rendimientos, ahorro e inversión en México | Ahorro Rinde",
@@ -1427,7 +1455,7 @@
    "mexicana": false,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-20T17:52:13+00:00",
-   "ultima_vez": "2026-10-20T17:52:13+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Simulador de Credito Hipotecario Mexico 2026 — CotizadorHipotecario.mx",
@@ -1472,6 +1500,20 @@
    "ultima_vez": "2026-10-27T18:39:08+00:00"
   },
   {
+   "empresa": "CashControlly · End the month with money, not red numbers",
+   "web": "https://cashcontrolly.com/",
+   "pais_probable": "Chile",
+   "rasgos": "inversion, educacion, latam, digital",
+   "descripcion": "Personal finance app. Budgets, savings goals, scheduled expenses. 14-day free trial, no card required.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": false,
+   "parecido_pilou": 41,
+   "primera_vez": "2026-10-20T17:52:13+00:00",
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
+  },
+  {
    "empresa": "Chatterize - Get the best financial products on the market",
    "web": "https://chatterize.com/",
    "pais_probable": "México",
@@ -1497,7 +1539,7 @@
    "mexicana": true,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-19T19:09:32+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Inversión Más Rentable | Trading Algorítmico e IA Financiera | Inversión Más Rentable",
@@ -1511,7 +1553,7 @@
    "mexicana": false,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "GBMfondos",
@@ -1595,7 +1637,7 @@
    "mexicana": true,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-20T17:52:13+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Investment Management & Financial Services | BlackRock",
