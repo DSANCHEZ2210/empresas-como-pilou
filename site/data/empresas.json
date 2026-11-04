@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T20:01:35+00:00",
+ "actualizado": "2026-11-04T20:22:01+00:00",
  "empresas": [
   {
    "empresa": "Mujeres y Dinero | educación financiera",
@@ -41,7 +41,7 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-02T22:15:29+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Finantres: Aprende a invertir bien y compara plataformas",
@@ -209,7 +209,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-03T20:01:35+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Asesoría Financiera para Mujeres en México | Eunik",
@@ -223,7 +223,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-03T20:01:35+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "PLD México 2026: Software y Cumplimiento Antilavado | Regcheq",
@@ -391,7 +391,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-21T18:01:15+00:00",
-   "ultima_vez": "2026-11-02T22:15:29+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "FG Academia — Educación Financiera e Inversiones para Argentina",
@@ -506,6 +506,34 @@
    "ultima_vez": "2026-11-03T20:01:35+00:00"
   },
   {
+   "empresa": "DineroenImagen",
+   "web": "https://www.dineroenimagen.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, mujeres, educacion, asesoria, latam, digital",
+   "descripcion": "Dinero en Imagen te da noticias sobre economía, finanzas personales, negocios, tecnología, compra de autos, divisas, precio del dólar, análisis financieros y de mercado",
+   "instagram": "https://www.instagram.com/dineroenimagen/",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-10-16T14:12:38+00:00",
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
+  },
+  {
+   "empresa": "Mujer Inversionista® | Comunidad de Mujeres Financieramente Inteligentes",
+   "web": "https://www.mujerinversionista.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, mujeres, educacion, asesoria, latam, digital",
+   "descripcion": "Ecosistema de educación financiera, comunidad y experiencias para mujeres de 40+ en México. Aprende a invertir tu dinero, tiempo y energía. Eventos, guías gratuitas y membresía MI Club.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "hola@mujerinversionista.mx",
+   "mexicana": true,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-11-04T20:22:01+00:00",
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
+  },
+  {
    "empresa": "Bolsa24: Análisis y Comparativas de brokers para invertir con confianza",
    "web": "https://www.bolsa24.net/",
    "pais_probable": "España",
@@ -545,7 +573,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-03T20:01:35+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Teia Invest | Educación financiera e inversiones para mujeres en Colombia y LATAM",
@@ -699,7 +727,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-11-01T18:20:37+00:00",
-   "ultima_vez": "2026-11-02T22:15:29+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Mejores tasas de CETES, SOFIPOs y bancos | Mis Finanzas Digitales",
@@ -784,6 +812,20 @@
    "parecido_pilou": 65,
    "primera_vez": "2026-11-03T20:01:35+00:00",
    "ultima_vez": "2026-11-03T20:01:35+00:00"
+  },
+  {
+   "empresa": "Te acompañamos en cada paso para lograr lo que te propongas | BBVA México",
+   "web": "https://www.bbva.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, educacion, asesoria, empresas_b2b, latam, digital",
+   "descripcion": "Vamos contigo en cada decisión. Inicia con una cuenta y accede a más soluciones financieras, desde ahorro hasta un crédito de auto ¿Avanzamos?",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 65,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Funds Society - Punto de encuentro para la industria de Asset y Wealth Management",
@@ -924,20 +966,6 @@
    "parecido_pilou": 59,
    "primera_vez": "2026-10-17T16:13:21+00:00",
    "ultima_vez": "2026-11-03T20:01:35+00:00"
-  },
-  {
-   "empresa": "Te acompañamos en cada paso para lograr lo que te propongas | BBVA México",
-   "web": "https://www.bbva.mx/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, educacion, asesoria, latam, digital",
-   "descripcion": "Vamos contigo en cada decisión. Inicia con una cuenta y accede a más soluciones financieras, desde ahorro hasta un crédito de auto ¿Avanzamos?",
-   "instagram": "",
-   "linkedin": "",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 59,
-   "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-10-27T18:39:08+00:00"
   },
   {
    "empresa": "Finanzas Transparentes | Finsus",
@@ -1091,7 +1119,7 @@
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-11-02T22:15:29+00:00",
-   "ultima_vez": "2026-11-03T20:01:35+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Zentavo — Control de Gastos y Presupuesto Personal para Latinos",
@@ -1134,20 +1162,6 @@
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
    "ultima_vez": "2026-11-01T18:20:37+00:00"
-  },
-  {
-   "empresa": "DineroenImagen",
-   "web": "https://www.dineroenimagen.com/",
-   "pais_probable": "México",
-   "rasgos": "mujeres, educacion, asesoria, latam, digital",
-   "descripcion": "Dinero en Imagen te da noticias sobre economía, finanzas personales, negocios, tecnología, compra de autos, divisas, precio del dólar, análisis financieros y de mercado",
-   "instagram": "https://www.instagram.com/dineroenimagen/",
-   "linkedin": "",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 53,
-   "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-30T18:29:50+00:00"
   },
   {
    "empresa": "Software de Crédito - Administra tu cartera - Software para Sofom",
@@ -1553,7 +1567,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-03T20:01:35+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Rendimientos, ahorro e inversión en México | Ahorro Rinde",
@@ -1623,7 +1637,7 @@
    "mexicana": false,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-19T19:09:32+00:00",
-   "ultima_vez": "2026-11-03T20:01:35+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Finec México",
@@ -1791,7 +1805,7 @@
    "mexicana": false,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-03T20:01:35+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "GBMfondos",
@@ -1805,7 +1819,7 @@
    "mexicana": true,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-03T20:01:35+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Home - GBM",
@@ -1819,7 +1833,7 @@
    "mexicana": false,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Active Leasing :: Take it easy. Take it Leasing.",
@@ -1889,7 +1903,7 @@
    "mexicana": false,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-22T17:55:44+00:00",
-   "ultima_vez": "2026-11-01T18:20:37+00:00"
+   "ultima_vez": "2026-11-04T20:22:01+00:00"
   },
   {
    "empresa": "Inicio - FIMSE Asesoría Patrimonial Independiente S de RL de CV",
