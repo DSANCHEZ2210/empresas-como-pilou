@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T22:49:19+00:00",
+ "actualizado": "2026-11-17T21:34:31+00:00",
  "empresas": [
   {
    "empresa": "Mujeres y Dinero | educación financiera",
@@ -27,7 +27,7 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Visionarias Business - Visionarias Business",
@@ -55,7 +55,7 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-15T19:18:52+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Tandazo — Autofinanciamiento $50k a $220k MXN sin intereses ni buró",
@@ -97,7 +97,7 @@
    "mexicana": true,
    "parecido_pilou": 82,
    "primera_vez": "2026-11-10T20:21:49+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Plata | Inversiones",
@@ -139,7 +139,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Invertir es así de simple, tus inversiones reguladas - Fintual",
@@ -153,21 +153,21 @@
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Inicio | Morado",
    "web": "https://www.moradocolombia.com/",
    "pais_probable": "Colombia",
    "rasgos": "inversion, ahorro, mujeres, educacion, asesoria, latam, digital",
-   "descripcion": "Morado ofrece soluciones de crédito flexibles y estratégicas para impulsar negocios, además de productos de belleza y financiamiento para emprendedoras en América Latina.",
+   "descripcion": "En Morado, creemos en el poder de las oportunidades. Nuestra misión es brindar acceso a soluciones financieras ágiles y flexibles que impulsen el crecimiento de emprendedores y negocios en Colombia y Latinoamérica.",
    "instagram": "https://www.instagram.com/moradocolombia/",
    "linkedin": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://co.linkedin.com/company/moradoweb&ved=2ahUKEwjvoc_VibqLAxUpRTABHT2iALwQFnoECAkQAQ&usg=AOvVaw3dE0oCYMWsMrcbtNFfbn9g",
    "email": "contacto@morado.app",
    "mexicana": false,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "ComparaBancaPerú: Compara Tasas Plazo Fijo, Ahorro y CTS 2026",
@@ -195,7 +195,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-11-14T18:42:34+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Bolsa de Chile | IPSA en Tiempo Real | Portal #1 de Inversiones",
@@ -268,20 +268,6 @@
    "ultima_vez": "2026-11-11T20:05:00+00:00"
   },
   {
-   "empresa": "Funds Society - Punto de encuentro para la industria de Asset y Wealth Management",
-   "web": "https://www.fundssociety.com/",
-   "pais_probable": "España",
-   "rasgos": "inversion, mujeres, educacion, asesoria, empresas_b2b, latam, digital",
-   "descripcion": "Punto de encuentro para la industria de Asset y Wealth Management",
-   "instagram": "https://www.instagram.com/fundssociety/",
-   "linkedin": "https://www.linkedin.com/company/funds-society/",
-   "email": "",
-   "mexicana": false,
-   "parecido_pilou": 76,
-   "primera_vez": "2026-10-18T16:27:03+00:00",
-   "ultima_vez": "2026-11-14T18:42:34+00:00"
-  },
-  {
    "empresa": "Te acompañamos en cada paso para lograr lo que te propongas | BBVA México",
    "web": "https://www.bbva.mx/",
    "pais_probable": "México",
@@ -293,21 +279,21 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Asesor Financiero Certificado AMIB en México | Asesores Inversión",
    "web": "https://asesoresinversion.com/",
    "pais_probable": "México",
-   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam, digital",
    "descripcion": "Asesoría de inversión personalizada en México con un asesor certificado por la AMIB y registrado en CNBV. Invierte con estrategia y rigor, sin humo. Primera consulta gratis.",
    "instagram": "https://www.instagram.com/asesores_inv/",
    "linkedin": "",
    "email": "contacto@asesoresinversion.com",
    "mexicana": true,
-   "parecido_pilou": 71,
+   "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Asesoría Financiera para Mujeres en México | Eunik",
@@ -321,7 +307,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "PLD México 2026: Software y Cumplimiento Antilavado | Regcheq",
@@ -391,7 +377,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-15T19:18:52+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Escuela profesional de traders - NovatosTrading Club",
@@ -510,14 +496,14 @@
    "web": "https://inversoras.club/",
    "pais_probable": "España",
    "rasgos": "inversion, mujeres, educacion, asesoria, latam, digital",
-   "descripcion": "Club privado de inversión para mujeres. Más de 2.600 socias comparten experiencias y contactos en un entorno exclusivo.",
+   "descripcion": "Club de Inversoras: el club privado de inversión para mujeres. Más de 2.600 socias comparten experiencias, formación y contactos para invertir con más seguridad.",
    "instagram": "https://www.instagram.com/club_inversoras/",
    "linkedin": "https://www.linkedin.com/company/inversoras-club/",
    "email": "info@inversoras.club",
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-29T18:52:49+00:00",
-   "ultima_vez": "2026-10-29T18:52:49+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Asesores Financieros en México | Retiro, Inversión y Seguros | EB Consulting",
@@ -559,7 +545,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-11-04T20:22:01+00:00",
-   "ultima_vez": "2026-11-08T18:18:03+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Mejor Broker de Bolsa – Análisis, revisión y opinión de brokers",
@@ -657,7 +643,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-11-12T20:43:33+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Kapital: Soluciones financieras para empresas y personas | México",
@@ -690,16 +676,44 @@
   {
    "empresa": "Alquimista del Dinero — Finanzas personales claras para Latinoamérica",
    "web": "https://alquimistadeldinero.com/",
-   "pais_probable": "Argentina",
-   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, latam",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, latam, digital",
    "descripcion": "Guías y calculadoras de finanzas personales para Latinoamérica. Ordena tus gastos, haz un plan de deudas y aprende a invertir.",
    "instagram": "https://www.instagram.com/alquimista_del_dinero/",
    "linkedin": "",
    "email": "",
-   "mexicana": false,
-   "parecido_pilou": 65,
+   "mexicana": true,
+   "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
+  },
+  {
+   "empresa": "Fiscalidad México - Blog",
+   "web": "https://fiscalidadmx.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, latam, digital",
+   "descripcion": "Descubre todo sobre FISCALIDAD en México: guías, noticias y asesoría para cumplir tus obligaciones fiscales de forma eficiente y actualizada.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-11-11T20:05:00+00:00",
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
+  },
+  {
+   "empresa": "Software Fortia para la automatización de RRHH en grandes empresas",
+   "web": "https://fortia.com.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, educacion, asesoria, empresas_b2b, regulada, latam, digital",
+   "descripcion": "Software para RRHH especializado en automatización de nómina, admon. de personal y control de asistencia. Solicita una demo gratuita.",
+   "instagram": "https://www.instagram.com/fortiarrhhsoftware/",
+   "linkedin": "https://www.linkedin.com/company/fortiarrhhsoftware",
+   "email": "contacto@fortia.com.mx",
+   "mexicana": true,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-11-12T20:43:33+00:00",
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Startups Argentina — Startup directory and jobs",
@@ -710,10 +724,10 @@
    "instagram": "",
    "linkedin": "",
    "email": "",
-   "mexicana": true,
+   "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-26T19:06:00+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Bolsa24: Análisis y Comparativas de brokers para invertir con confianza",
@@ -783,7 +797,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Mujer Emprende",
@@ -825,7 +839,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-18T16:27:03+00:00",
-   "ultima_vez": "2026-11-13T20:25:13+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Seguros para familias y empresas, fianzas, retiro e inversión | INV",
@@ -923,7 +937,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-22T17:55:44+00:00",
-   "ultima_vez": "2026-11-14T18:42:34+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Moonflow: Infraestructura de cobranza IA Nativa",
@@ -965,7 +979,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-11-02T22:15:29+00:00",
-   "ultima_vez": "2026-11-13T20:25:13+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "GBM | Invierte con propósito",
@@ -1038,18 +1052,18 @@
    "ultima_vez": "2026-11-14T18:42:34+00:00"
   },
   {
-   "empresa": "Fiscalidad México - Blog",
-   "web": "https://fiscalidadmx.com/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, educacion, asesoria, latam, digital",
-   "descripcion": "Descubre todo sobre FISCALIDAD en México: guías, noticias y asesoría para cumplir tus obligaciones fiscales de forma eficiente y actualizada.",
-   "instagram": "",
-   "linkedin": "",
+   "empresa": "Funds Society - Punto de encuentro para la industria de Asset y Wealth Management",
+   "web": "https://www.fundssociety.com/",
+   "pais_probable": "España",
+   "rasgos": "inversion, educacion, asesoria, empresas_b2b, latam, digital",
+   "descripcion": "Punto de encuentro para la industria de Asset y Wealth Management",
+   "instagram": "https://www.instagram.com/fundssociety/",
+   "linkedin": "https://www.linkedin.com/company/funds-society/",
    "email": "",
-   "mexicana": true,
+   "mexicana": false,
    "parecido_pilou": 59,
-   "primera_vez": "2026-11-11T20:05:00+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "primera_vez": "2026-10-18T16:27:03+00:00",
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Últimas noticias del Perú y el Mundo | La República",
@@ -1126,14 +1140,14 @@
    "web": "https://flink.co/",
    "pais_probable": "Colombia",
    "rasgos": "inversion, ahorro, educacion, asesoria, empresas_b2b, latam",
-   "descripcion": "En FLINK, nos enorgullecemos de contar con un equipo altamente experimentado en el desarrollo y crecimiento empresarial, el venture capital y la banca de inversión.",
+   "descripcion": "En FLINK, nos enorgullecemos de contar con un equipo altamente experimentado en el desarrollo y crecimiento empresarial, el venture capital y la banca de inversión. Estamos aquí para guiar tu empresa hacia el éxito con nuestra experiencia y dedicación.",
    "instagram": "",
    "linkedin": "https://www.linkedin.com/company/flink-co/",
    "email": "info@flink.co",
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Franco Martini",
@@ -1147,7 +1161,7 @@
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-14T18:42:34+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Educación Financiera e Inversión Inteligente para Crecer -",
@@ -1175,7 +1189,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Finanzas Transparentes | Finsus",
@@ -1189,7 +1203,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Burcamp",
@@ -1223,7 +1237,7 @@
    "empresa": "Abogados en CDMX — Despacho Jurídico Especializado en Derecho Familiar, Civil, Penal y Corporativo",
    "web": "https://abogadosencdmx.com/",
    "pais_probable": "México",
-   "rasgos": "inversion, educacion, asesoria, empresas_b2b, regulada, latam",
+   "rasgos": "inversion, educacion, asesoria, empresas_b2b, latam, digital",
    "descripcion": "Despacho jurídico en Roma Norte, CDMX. Especialistas en derecho familiar, penal, civil, corporativo, migratorio, inmobiliario y laboral. Consulta gratuita.",
    "instagram": "https://instagram.com/abogadosencdmx",
    "linkedin": "https://linkedin.com/company/abogadosencdmx",
@@ -1231,7 +1245,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-29T18:52:49+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Microsip – El ERP hecho para tu empresa ¡Maximiza el potencial!",
@@ -1427,7 +1441,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-11-12T20:43:33+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "POSTA",
@@ -1455,7 +1469,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-14T18:42:34+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Colegio de la Contaduría Pública de México",
@@ -1517,15 +1531,15 @@
    "empresa": "Radio Pauta 100.5",
    "web": "https://www.pauta.cl/",
    "pais_probable": "Chile",
-   "rasgos": "inversion, ahorro, educacion, regulada, latam, digital",
+   "rasgos": "inversion, ahorro, educacion, asesoria, latam, digital",
    "descripcion": "Pauta es un medio de comunicación que busca influir positivamente en la sociedad, a través de la entrega de contenidos que ayuden a su audiencia a conocer y entender la realidad.",
    "instagram": "https://www.instagram.com/pauta.cl/",
    "linkedin": "https://www.linkedin.com/company/pauta-cl/",
    "email": "hola@hola.cl",
    "mexicana": false,
-   "parecido_pilou": 53,
+   "parecido_pilou": 59,
    "primera_vez": "2026-11-15T19:18:52+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "ApartadoMex — Finanzas, IA, CETES y SAT para México 2026",
@@ -1595,7 +1609,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Diario de Trading con IA para Traders | Awake Trader | Awake Trader",
@@ -1623,7 +1637,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Microwd Inversiones - genera impacto social",
@@ -1637,7 +1651,7 @@
    "mexicana": false,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-15T19:18:52+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Información sobre negocios financieros en México",
@@ -1679,7 +1693,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Latinas Invest — Money, Investing and Ownership for Latina Women",
@@ -1777,7 +1791,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-24T16:32:11+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Plataforma de Beneficios Para Empleados | minu",
@@ -1791,7 +1805,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-25T17:01:26+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "108 Investments | Gestión Patrimonial e Inversiones",
@@ -2035,7 +2049,7 @@
    "empresa": "Marketb2b - es un marketplace B2B de productos industriales y de consumo",
    "web": "https://marketb2b.mx/",
    "pais_probable": "México",
-   "rasgos": "ahorro, educacion, asesoria, empresas_b2b, latam, digital",
+   "rasgos": "mujeres, educacion, empresas_b2b, latam, digital",
    "descripcion": "Marketplace B2B |  Publica tus productos | Sin comisiones | Generamos tráfico orgánico hacia tus productos | Incremeta tus ventas.",
    "instagram": "",
    "linkedin": "",
@@ -2043,7 +2057,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "EconomiaeInversion.com - Noticias y actualidad en Economía, Inversión, Finanzas y Mercado Inmobiliario",
@@ -2071,7 +2085,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "BioBioChile - La Red de Prensa Más Grande de Chile",
@@ -2127,7 +2141,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Rendimientos, ahorro e inversión en México | Ahorro Rinde",
@@ -2141,7 +2155,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-15T19:18:52+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Akiba | Bienestar financiero para empresas en México",
@@ -2155,7 +2169,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "Puntored",
@@ -2438,20 +2452,6 @@
    "ultima_vez": "2026-11-15T19:18:52+00:00"
   },
   {
-   "empresa": "Software Fortia para la automatización de RRHH en grandes empresas",
-   "web": "https://fortia.com.mx/",
-   "pais_probable": "",
-   "rasgos": "ahorro, educacion, asesoria, empresas_b2b, digital",
-   "descripcion": "Software para RRHH especializado en automatización de nómina, admon. de personal y control de asistencia. Solicita una demo gratuita.",
-   "instagram": "https://www.instagram.com/fortiarrhhsoftware/",
-   "linkedin": "https://www.linkedin.com/company/fortiarrhhsoftware",
-   "email": "contacto@fortia.com.mx",
-   "mexicana": true,
-   "parecido_pilou": 41,
-   "primera_vez": "2026-11-12T20:43:33+00:00",
-   "ultima_vez": "2026-11-15T19:18:52+00:00"
-  },
-  {
    "empresa": "Chatterize - Get the best financial products on the market",
    "web": "https://chatterize.com/",
    "pais_probable": "México",
@@ -2687,7 +2687,7 @@
    "mexicana": false,
    "parecido_pilou": 41,
    "primera_vez": "2026-11-13T20:25:13+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-17T21:34:31+00:00"
   },
   {
    "empresa": "The Decision Intelligence Platform - Own The Decision Layer",
