@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T20:59:28+00:00",
+ "actualizado": "2026-11-21T20:00:32+00:00",
  "empresas": [
   {
    "empresa": "Mujeres y Dinero | educación financiera",
@@ -139,7 +139,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Invertir es así de simple, tus inversiones reguladas - Fintual",
@@ -195,7 +195,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Bolsa de Chile | IPSA en Tiempo Real | Portal #1 de Inversiones",
@@ -268,20 +268,6 @@
    "ultima_vez": "2026-11-11T20:05:00+00:00"
   },
   {
-   "empresa": "Asesor Financiero Certificado AMIB en México | Asesores Inversión",
-   "web": "https://asesoresinversion.com/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam, digital",
-   "descripcion": "Asesoría de inversión personalizada en México con un asesor certificado por la AMIB y registrado en CNBV. Invierte con estrategia y rigor, sin humo. Primera consulta gratis.",
-   "instagram": "https://www.instagram.com/asesores_inv/",
-   "linkedin": "",
-   "email": "contacto@asesoresinversion.com",
-   "mexicana": true,
-   "parecido_pilou": 76,
-   "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
-  },
-  {
    "empresa": "Rose Grant - capital y mentoring para negocios con enfoque en inclusión financiera.",
    "web": "https://rosegrant.org/",
    "pais_probable": "México",
@@ -296,20 +282,6 @@
    "ultima_vez": "2026-11-18T21:11:14+00:00"
   },
   {
-   "empresa": "Te acompañamos en cada paso para lograr lo que te propongas | BBVA México",
-   "web": "https://www.bbva.mx/",
-   "pais_probable": "México",
-   "rasgos": "inversion, ahorro, mujeres, educacion, asesoria, latam, digital",
-   "descripcion": "Vamos contigo en cada decisión. Inicia con una cuenta y accede a más soluciones financieras, desde ahorro hasta un crédito de auto ¿Avanzamos?",
-   "instagram": "",
-   "linkedin": "",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 76,
-   "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
-  },
-  {
    "empresa": "100 Ladrillos | Inversión Inmobiliaria en México",
    "web": "https://100ladrillos.com/",
    "pais_probable": "México",
@@ -321,7 +293,21 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-11-12T20:43:33+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
+  },
+  {
+   "empresa": "Asesor Financiero Certificado AMIB en México | Asesores Inversión",
+   "web": "https://asesoresinversion.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam",
+   "descripcion": "Asesoría de inversión personalizada en México con un asesor certificado por la AMIB y registrado en CNBV. Invierte con estrategia y rigor, sin humo. Primera consulta gratis.",
+   "instagram": "https://www.instagram.com/asesores_inv/",
+   "linkedin": "",
+   "email": "contacto@asesoresinversion.com",
+   "mexicana": true,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-10-16T14:12:38+00:00",
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Asesoría Financiera para Mujeres en México | Eunik",
@@ -489,7 +475,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-21T18:01:15+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "FG Academia — Educación Financiera e Inversiones para Argentina",
@@ -643,7 +629,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-11-11T20:05:00+00:00",
-   "ultima_vez": "2026-11-16T22:49:19+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "InverArg – Inverti en Bolsa y Criptomonedas",
@@ -713,7 +699,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Fiscalidad México - Blog",
@@ -965,7 +951,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-22T17:55:44+00:00",
-   "ultima_vez": "2026-11-17T21:34:31+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Moonflow: Infraestructura de cobranza IA Nativa",
@@ -1021,7 +1007,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-11-03T20:01:35+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Últimas noticias de Argentina y el mundo - LA NACION",
@@ -1092,6 +1078,20 @@
    "parecido_pilou": 65,
    "primera_vez": "2026-10-18T16:27:03+00:00",
    "ultima_vez": "2026-11-18T21:11:14+00:00"
+  },
+  {
+   "empresa": "Te acompañamos en cada paso para lograr lo que te propongas | BBVA México",
+   "web": "https://www.bbva.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, educacion, asesoria, latam, digital",
+   "descripcion": "Vamos contigo en cada decisión. Inicia con una cuenta y accede a más soluciones financieras, desde ahorro hasta un crédito de auto ¿Avanzamos?",
+   "instagram": "",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 59,
+   "primera_vez": "2026-10-17T16:13:21+00:00",
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Funds Society - Punto de encuentro para la industria de Asset y Wealth Management",
@@ -1287,7 +1287,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-29T18:52:49+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Microsip – El ERP hecho para tu empresa ¡Maximiza el potencial!",
@@ -1595,7 +1595,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Préstamos Personales en Línea Finan.mx - Créditos Confiables",
@@ -1609,7 +1609,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-13T20:25:13+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "7 Mejores - Comparativas para elegir con acierto",
@@ -1707,7 +1707,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "GodinMX — Todo para el godín mexicano | GodinMX",
@@ -2085,7 +2085,7 @@
    "mexicana": false,
    "parecido_pilou": 53,
    "primera_vez": "2026-11-12T20:43:33+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "EconomiaeInversion.com - Noticias y actualidad en Economía, Inversión, Finanzas y Mercado Inmobiliario",
@@ -2169,7 +2169,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-19T21:15:46+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Rendimientos, ahorro e inversión en México | Ahorro Rinde",
@@ -2183,7 +2183,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-18T21:11:14+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Akiba | Bienestar financiero para empresas en México",
@@ -2449,7 +2449,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-19T19:09:32+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Scribd: El hogar de los documentos del mundo.",
@@ -2589,7 +2589,7 @@
    "mexicana": true,
    "parecido_pilou": 41,
    "primera_vez": "2026-10-20T17:52:13+00:00",
-   "ultima_vez": "2026-11-08T18:18:03+00:00"
+   "ultima_vez": "2026-11-21T20:00:32+00:00"
   },
   {
    "empresa": "Investment Management & Financial Services | BlackRock",
