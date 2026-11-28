@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T21:53:02+00:00",
+ "actualizado": "2026-11-28T20:49:05+00:00",
  "empresas": [
   {
    "empresa": "Mujeres y Dinero | educación financiera",
@@ -27,7 +27,7 @@
    "mexicana": false,
    "parecido_pilou": 88,
    "primera_vez": "2026-11-26T22:11:57+00:00",
-   "ultima_vez": "2026-11-26T22:11:57+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Mujer Financiera | Cursos de finanzas e inversiones desde cero",
@@ -41,7 +41,7 @@
    "mexicana": false,
    "parecido_pilou": 82,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Finantres: Aprende a invertir bien y compara plataformas",
@@ -83,7 +83,7 @@
    "mexicana": true,
    "parecido_pilou": 82,
    "primera_vez": "2026-11-10T20:21:49+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Plata | Inversiones",
@@ -125,7 +125,7 @@
    "mexicana": true,
    "parecido_pilou": 76,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Invertir es así de simple, tus inversiones reguladas - Fintual",
@@ -324,6 +324,20 @@
    "ultima_vez": "2026-11-27T21:53:02+00:00"
   },
   {
+   "empresa": "Asesor Financiero Certificado AMIB en México | Asesores Inversión",
+   "web": "https://asesoresinversion.com/",
+   "pais_probable": "México",
+   "rasgos": "inversion, ahorro, principiantes, educacion, asesoria, regulada, latam, digital",
+   "descripcion": "Asesoría de inversión personalizada en México con un asesor certificado por la AMIB y registrado en CNBV. Invierte con estrategia y rigor, sin humo. Primera consulta gratis.",
+   "instagram": "https://www.instagram.com/asesores_inv/",
+   "linkedin": "",
+   "email": "contacto@asesoresinversion.com",
+   "mexicana": true,
+   "parecido_pilou": 76,
+   "primera_vez": "2026-10-16T14:12:38+00:00",
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
+  },
+  {
    "empresa": "Últimas Noticias de hoy en México y el mundo en vivo - UnoTV",
    "web": "https://www.unotv.com/",
    "pais_probable": "México",
@@ -363,7 +377,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-26T22:11:57+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "PLD México 2026: Software y Cumplimiento Antilavado | Regcheq",
@@ -391,7 +405,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-11T20:05:00+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Capitelle Finance",
@@ -433,7 +447,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Escuela profesional de traders - NovatosTrading Club",
@@ -517,7 +531,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-21T18:01:15+00:00",
-   "ultima_vez": "2026-11-25T22:13:18+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "FG Academia — Educación Financiera e Inversiones para Argentina",
@@ -559,7 +573,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-29T18:52:49+00:00",
-   "ultima_vez": "2026-11-26T22:11:57+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Asesores Financieros en México | Retiro, Inversión y Seguros | EB Consulting",
@@ -671,7 +685,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-11-11T20:05:00+00:00",
-   "ultima_vez": "2026-11-25T22:13:18+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "InverArg – Inverti en Bolsa y Criptomonedas",
@@ -699,7 +713,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-11-12T20:43:33+00:00",
-   "ultima_vez": "2026-11-26T22:11:57+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Kapital: Soluciones financieras para empresas y personas | México",
@@ -741,7 +755,7 @@
    "mexicana": true,
    "parecido_pilou": 71,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Software Fortia para la automatización de RRHH en grandes empresas",
@@ -769,7 +783,7 @@
    "mexicana": false,
    "parecido_pilou": 71,
    "primera_vez": "2026-11-24T00:40:30+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "EconomiaeInversion.com - Noticias y actualidad en Economía, Inversión, Finanzas y Mercado Inmobiliario",
@@ -786,6 +800,20 @@
    "ultima_vez": "2026-11-25T22:13:18+00:00"
   },
   {
+   "empresa": "Homepage - Mundo Ejecutivo Nuevo Leon",
+   "web": "https://mundoejecutivonuevoleon.com.mx/",
+   "pais_probable": "México",
+   "rasgos": "inversion, mujeres, educacion, asesoria, latam, digital",
+   "descripcion": "Tecnología Laboratorio de Agua y Drenaje de Monterrey recibe por 18ª ocasión reconocimiento internacional de excelencia El Laboratorio…",
+   "instagram": "https://www.instagram.com/mundoejecutivonl/",
+   "linkedin": "",
+   "email": "",
+   "mexicana": true,
+   "parecido_pilou": 71,
+   "primera_vez": "2026-10-31T17:34:43+00:00",
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
+  },
+  {
    "empresa": "Startups Argentina — Startup directory and jobs",
    "web": "https://www.startupsargentina.com/",
    "pais_probable": "Argentina",
@@ -797,7 +825,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-26T19:06:00+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Bolsa24: Análisis y Comparativas de brokers para invertir con confianza",
@@ -825,7 +853,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-24T22:58:28+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Teia Invest | Educación financiera e inversiones para mujeres en Colombia y LATAM",
@@ -853,7 +881,7 @@
    "mexicana": false,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-25T22:13:18+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Mujer Emprende",
@@ -895,7 +923,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-10-18T16:27:03+00:00",
-   "ultima_vez": "2026-11-24T00:40:30+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Seguros para familias y empresas, fianzas, retiro e inversión | INV",
@@ -1035,7 +1063,7 @@
    "mexicana": true,
    "parecido_pilou": 65,
    "primera_vez": "2026-11-03T20:01:35+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Últimas noticias de Argentina y el mundo - LA NACION",
@@ -1231,7 +1259,7 @@
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Flink – Venture Capital",
@@ -1301,7 +1329,7 @@
    "mexicana": true,
    "parecido_pilou": 59,
    "primera_vez": "2026-10-17T16:13:21+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Burcamp",
@@ -1371,7 +1399,7 @@
    "mexicana": false,
    "parecido_pilou": 59,
    "primera_vez": "2026-11-01T18:20:37+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "EbankingNews by Digital Bank LATAM",
@@ -1665,7 +1693,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-26T22:11:57+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Préstamos Personales en Línea Finan.mx - Créditos Confiables",
@@ -1721,7 +1749,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Diario de Trading con IA para Traders | Awake Trader | Awake Trader",
@@ -1763,7 +1791,7 @@
    "mexicana": false,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Información sobre negocios financieros en México",
@@ -1777,7 +1805,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-24T00:40:30+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "GodinMX — Todo para el godín mexicano | GodinMX",
@@ -1791,7 +1819,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-26T22:11:57+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Finfit — Cajas y fondos de ahorro laborales | Bienestar financiero",
@@ -1805,7 +1833,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Latinas Invest — Money, Investing and Ownership for Latina Women",
@@ -1833,7 +1861,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-18T16:27:03+00:00",
-   "ultima_vez": "2026-11-10T20:21:49+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Fondos de Inversión en Monterrey | Planes Planifica Futuro",
@@ -1903,7 +1931,7 @@
    "mexicana": true,
    "parecido_pilou": 53,
    "primera_vez": "2026-10-25T17:01:26+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "108 Investments | Gestión Patrimonial e Inversiones",
@@ -2016,20 +2044,6 @@
    "parecido_pilou": 53,
    "primera_vez": "2026-11-05T20:32:18+00:00",
    "ultima_vez": "2026-11-07T17:59:59+00:00"
-  },
-  {
-   "empresa": "Homepage - Mundo Ejecutivo Nuevo Leon",
-   "web": "https://mundoejecutivonuevoleon.com.mx/",
-   "pais_probable": "México",
-   "rasgos": "inversion, educacion, asesoria, latam, digital",
-   "descripcion": "Tecnología Laboratorio de Agua y Drenaje de Monterrey recibe por 18ª ocasión reconocimiento internacional de excelencia El Laboratorio…",
-   "instagram": "https://www.instagram.com/mundoejecutivonl/",
-   "linkedin": "",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 53,
-   "primera_vez": "2026-10-31T17:34:43+00:00",
-   "ultima_vez": "2026-11-13T20:25:13+00:00"
   },
   {
    "empresa": "CashControlly · End the month with money, not red numbers",
@@ -2158,6 +2172,20 @@
    "ultima_vez": "2026-11-26T22:11:57+00:00"
   },
   {
+   "empresa": "Finxard | Plataforma de Inversión y Análisis Bursátil en Colombia",
+   "web": "https://finxard.com/",
+   "pais_probable": "Colombia",
+   "rasgos": "inversion, educacion, asesoria, latam, digital",
+   "descripcion": "Formación bursátil con método académico. Datos, herramientas y comunidad. Más de 3.500 estudiantes ya usan la app.",
+   "instagram": "https://www.instagram.com/finxard/",
+   "linkedin": "",
+   "email": "contacto@finxard.com, johndoe@gmail.com",
+   "mexicana": false,
+   "parecido_pilou": 53,
+   "primera_vez": "2026-10-19T19:09:32+00:00",
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
+  },
+  {
    "empresa": "MiFinGuía — Bancos, seguros y herramientas en español",
    "web": "https://mifinguia.com/",
    "pais_probable": "México",
@@ -2169,7 +2197,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Revista Veritas",
@@ -2197,7 +2225,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "BioBioChile - La Red de Prensa Más Grande de Chile",
@@ -2267,7 +2295,7 @@
    "mexicana": true,
    "parecido_pilou": 47,
    "primera_vez": "2026-10-16T14:17:50+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "Puntored",
@@ -2536,20 +2564,6 @@
    "ultima_vez": "2026-11-26T22:11:57+00:00"
   },
   {
-   "empresa": "One moment, please...",
-   "web": "https://asesoresinversion.com/",
-   "pais_probable": "México",
-   "rasgos": "inversion, asesoria, latam, digital",
-   "descripcion": "Eso es un robo-advisor, y en México ya hay varias plataformas que lo ofrecen: Fintual, GBM, Kuspit y Dinn, entre otras. La respuesta corta a “¿funcionan?”: sí, funcionan para lo que están diseñados — automatizar una cartera diversificada de fondos a un costo mucho menor que un asesor humano.",
-   "instagram": "",
-   "linkedin": "",
-   "email": "",
-   "mexicana": true,
-   "parecido_pilou": 41,
-   "primera_vez": "2026-10-16T14:12:38+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
-  },
-  {
    "empresa": "Marketb2b - es un marketplace B2B de productos industriales y de consumo",
    "web": "https://marketb2b.mx/",
    "pais_probable": "México",
@@ -2575,7 +2589,7 @@
    "mexicana": true,
    "parecido_pilou": 41,
    "primera_vez": "2026-11-12T20:43:33+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "One moment, please...",
@@ -2590,20 +2604,6 @@
    "parecido_pilou": 41,
    "primera_vez": "2026-10-16T14:12:38+00:00",
    "ultima_vez": "2026-11-26T22:11:57+00:00"
-  },
-  {
-   "empresa": "One moment, please...",
-   "web": "https://finxard.com/",
-   "pais_probable": "Colombia",
-   "rasgos": "inversion, educacion, latam, digital",
-   "descripcion": "He cultivado un enfoque disciplinado y estratégico, combinando análisis fundamental y técnico para la toma de decisiones de inversión. Además, he promovido activamente la educación financiera como un instrumento esencial para el fortalecimiento del ecosistema bursátil colombiano.",
-   "instagram": "",
-   "linkedin": "",
-   "email": "",
-   "mexicana": false,
-   "parecido_pilou": 41,
-   "primera_vez": "2026-10-19T19:09:32+00:00",
-   "ultima_vez": "2026-11-27T21:53:02+00:00"
   },
   {
    "empresa": "Inversión Más Rentable | Trading Algorítmico e IA Financiera",
@@ -2855,7 +2855,7 @@
    "mexicana": false,
    "parecido_pilou": 41,
    "primera_vez": "2026-11-13T20:25:13+00:00",
-   "ultima_vez": "2026-11-20T20:59:28+00:00"
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   },
   {
    "empresa": "The Decision Intelligence Platform - Own The Decision Layer",
@@ -2926,6 +2926,34 @@
    "parecido_pilou": 41,
    "primera_vez": "2026-11-26T22:11:57+00:00",
    "ultima_vez": "2026-11-26T22:11:57+00:00"
+  },
+  {
+   "empresa": "Fondos indexados: qué son y cómo invertir en ellos (2026)",
+   "web": "https://www.fondosindexados.net/",
+   "pais_probable": "España",
+   "rasgos": "inversion, ahorro, educacion, digital",
+   "descripcion": "Qué son los fondos indexados, ventajas, comisiones y cómo invertir en fondos indexados desde España: por tu cuenta, con un roboadvisor o con ETFs. Guía 2026.",
+   "instagram": "",
+   "linkedin": "",
+   "email": "ismael@fondosindexados.net",
+   "mexicana": false,
+   "parecido_pilou": 41,
+   "primera_vez": "2026-11-28T20:49:05+00:00",
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
+  },
+  {
+   "empresa": "Home | SURA Investments",
+   "web": "https://www.surainvestments.com/",
+   "pais_probable": "Estados Unidos",
+   "rasgos": "inversion, educacion, latam, digital",
+   "descripcion": "SURA Investments es una plataforma global experta en soluciones de inversión y gestión de activos para personas, empresas e instituciones en Latinoamérica.",
+   "instagram": "",
+   "linkedin": "https://www.linkedin.com/company/surainvestments",
+   "email": "",
+   "mexicana": false,
+   "parecido_pilou": 41,
+   "primera_vez": "2026-11-28T20:49:05+00:00",
+   "ultima_vez": "2026-11-28T20:49:05+00:00"
   }
  ]
 }
